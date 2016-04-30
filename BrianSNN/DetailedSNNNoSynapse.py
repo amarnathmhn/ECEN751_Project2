@@ -25,7 +25,7 @@ vt += delta_vt0
 
 G = NeuronGroup(N, eqs, threshold='v>vt', reset=reset, refractory=5*ms)
 spikemon = SpikeMonitor(G)
-statemon = StateMonitor(G, 'v', record=1)
+statemon = StateMonitor(G, 'v', record=True)
 
 G.v = 'rand()*(vt0-vr)+vr'
 G.vt = vt0
@@ -37,7 +37,7 @@ run(duration)
 #xlabel('Time (ms)')
 #ylabel('Instantaneous firing rate (sp/s)')
 
-plot(statemon.t/ms, statemon.v[1])
+plot(statemon.t/ms, statemon.v[70])
 xlabel('Time (ms)')
 ylabel('Instantaneous firing rate (sp/s)')
 show()
