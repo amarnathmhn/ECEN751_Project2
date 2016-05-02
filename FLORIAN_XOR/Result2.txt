@@ -1,0 +1,1905 @@
+Iteration  0 , Training  0   1
+Iteration  0 , Training  0   0
+Iteration  0 , Training  1   0
+Iteration  0 , Training  1   1
+Iteration  1 , Training  1   0
+Iteration  1 , Training  1   1
+Iteration  1 , Training  0   0
+Iteration  1 , Training  0   1
+Iteration  2 , Training  1   1
+Iteration  2 , Training  0   1
+Iteration  2 , Training  0   0
+Iteration  2 , Training  1   0
+Iteration  3 , Training  0   1
+Iteration  3 , Training  0   0
+Iteration  3 , Training  1   1
+Iteration  3 , Training  1   0
+Iteration  4 , Training  0   0
+Iteration  4 , Training  0   1
+Iteration  4 , Training  1   0
+Iteration  4 , Training  1   1
+Iteration  5 , Training  1   0
+Iteration  5 , Training  1   1
+Iteration  5 , Training  0   1
+Iteration  5 , Training  0   0
+Iteration  6 , Training  0   0
+Iteration  6 , Training  0   1
+Iteration  6 , Training  1   1
+Iteration  6 , Training  1   0
+Iteration  7 , Training  1   1
+Iteration  7 , Training  0   1
+Iteration  7 , Training  0   0
+Iteration  7 , Training  1   0
+Iteration  8 , Training  0   1
+Iteration  8 , Training  1   1
+Iteration  8 , Training  1   0
+Iteration  8 , Training  0   0
+Iteration  9 , Training  1   0
+Iteration  9 , Training  0   0
+Iteration  9 , Training  1   1
+Iteration  9 , Training  0   1
+Iteration  10 , Training  1   1
+Iteration  10 , Training  0   1
+Iteration  10 , Training  0   0
+Iteration  10 , Training  1   0
+Iteration  11 , Training  1   1
+Iteration  11 , Training  0   1
+Iteration  11 , Training  1   0
+Iteration  11 , Training  0   0
+Iteration  12 , Training  1   0
+Iteration  12 , Training  0   1
+Iteration  12 , Training  1   1
+Iteration  12 , Training  0   0
+Iteration  13 , Training  1   0
+Iteration  13 , Training  0   0
+Iteration  13 , Training  0   1
+Iteration  13 , Training  1   1
+Iteration  14 , Training  1   1
+Iteration  14 , Training  0   1
+Iteration  14 , Training  1   0
+Iteration  14 , Training  0   0
+Iteration  15 , Training  1   0
+Iteration  15 , Training  1   1
+Iteration  15 , Training  0   1
+Iteration  15 , Training  0   0
+Iteration  16 , Training  1   0
+Iteration  16 , Training  1   1
+Iteration  16 , Training  0   1
+Iteration  16 , Training  0   0
+Iteration  17 , Training  0   0
+Iteration  17 , Training  1   0
+Iteration  17 , Training  0   1
+Iteration  17 , Training  1   1
+Iteration  18 , Training  0   0
+Iteration  18 , Training  1   1
+Iteration  18 , Training  0   1
+Iteration  18 , Training  1   0
+Iteration  19 , Training  1   1
+Iteration  19 , Training  0   1
+Iteration  19 , Training  0   0
+Iteration  19 , Training  1   0
+Iteration  20 , Training  1   0
+Iteration  20 , Training  0   1
+Iteration  20 , Training  0   0
+Iteration  20 , Training  1   1
+Iteration  21 , Training  1   0
+Iteration  21 , Training  1   1
+Iteration  21 , Training  0   0
+Iteration  21 , Training  0   1
+Iteration  22 , Training  0   0
+Iteration  22 , Training  1   1
+Iteration  22 , Training  1   0
+Iteration  22 , Training  0   1
+Iteration  23 , Training  0   1
+Iteration  23 , Training  1   1
+Iteration  23 , Training  1   0
+Iteration  23 , Training  0   0
+Iteration  24 , Training  0   1
+Iteration  24 , Training  1   1
+Iteration  24 , Training  1   0
+Iteration  24 , Training  0   0
+Iteration  25 , Training  1   0
+Iteration  25 , Training  0   0
+Iteration  25 , Training  1   1
+Iteration  25 , Training  0   1
+Iteration  26 , Training  1   0
+Iteration  26 , Training  0   0
+Iteration  26 , Training  1   1
+Iteration  26 , Training  0   1
+Iteration  27 , Training  0   0
+Iteration  27 , Training  1   0
+Iteration  27 , Training  0   1
+Iteration  27 , Training  1   1
+Iteration  28 , Training  1   1
+Iteration  28 , Training  0   0
+Iteration  28 , Training  1   0
+Iteration  28 , Training  0   1
+Iteration  29 , Training  1   0
+Iteration  29 , Training  0   0
+Iteration  29 , Training  1   1
+Iteration  29 , Training  0   1
+Iteration  30 , Training  1   0
+Iteration  30 , Training  0   0
+Iteration  30 , Training  0   1
+Iteration  30 , Training  1   1
+Iteration  31 , Training  1   1
+Iteration  31 , Training  0   0
+Iteration  31 , Training  1   0
+Iteration  31 , Training  0   1
+Iteration  32 , Training  1   1
+Iteration  32 , Training  0   0
+Iteration  32 , Training  0   1
+Iteration  32 , Training  1   0
+Iteration  33 , Training  1   1
+Iteration  33 , Training  0   1
+Iteration  33 , Training  0   0
+Iteration  33 , Training  1   0
+Iteration  34 , Training  0   1
+Iteration  34 , Training  1   1
+Iteration  34 , Training  1   0
+Iteration  34 , Training  0   0
+Iteration  35 , Training  0   0
+Iteration  35 , Training  1   0
+Iteration  35 , Training  0   1
+Iteration  35 , Training  1   1
+Iteration  36 , Training  1   0
+Iteration  36 , Training  0   0
+Iteration  36 , Training  0   1
+Iteration  36 , Training  1   1
+Iteration  37 , Training  0   1
+Iteration  37 , Training  1   0
+Iteration  37 , Training  0   0
+Iteration  37 , Training  1   1
+Iteration  38 , Training  1   1
+Iteration  38 , Training  1   0
+Iteration  38 , Training  0   0
+Iteration  38 , Training  0   1
+Iteration  39 , Training  0   1
+Iteration  39 , Training  0   0
+Iteration  39 , Training  1   1
+Iteration  39 , Training  1   0
+Iteration  40 , Training  1   1
+Iteration  40 , Training  0   0
+Iteration  40 , Training  1   0
+Iteration  40 , Training  0   1
+Iteration  41 , Training  0   0
+Iteration  41 , Training  1   0
+Iteration  41 , Training  1   1
+Iteration  41 , Training  0   1
+Iteration  42 , Training  0   1
+Iteration  42 , Training  1   0
+Iteration  42 , Training  1   1
+Iteration  42 , Training  0   0
+Iteration  43 , Training  1   0
+Iteration  43 , Training  0   0
+Iteration  43 , Training  1   1
+Iteration  43 , Training  0   1
+Iteration  44 , Training  1   0
+Iteration  44 , Training  0   0
+Iteration  44 , Training  0   1
+Iteration  44 , Training  1   1
+Iteration  45 , Training  0   1
+Iteration  45 , Training  1   1
+Iteration  45 , Training  0   0
+Iteration  45 , Training  1   0
+Iteration  46 , Training  0   0
+Iteration  46 , Training  0   1
+Iteration  46 , Training  1   0
+Iteration  46 , Training  1   1
+Iteration  47 , Training  1   0
+Iteration  47 , Training  1   1
+Iteration  47 , Training  0   0
+Iteration  47 , Training  0   1
+Iteration  48 , Training  0   1
+Iteration  48 , Training  1   0
+Iteration  48 , Training  0   0
+Iteration  48 , Training  1   1
+Iteration  49 , Training  0   0
+Iteration  49 , Training  1   1
+Iteration  49 , Training  1   0
+Iteration  49 , Training  0   1
+Iteration  50 , Training  1   0
+Iteration  50 , Training  0   1
+Iteration  50 , Training  0   0
+Iteration  50 , Training  1   1
+Iteration  51 , Training  1   1
+Iteration  51 , Training  0   0
+Iteration  51 , Training  0   1
+Iteration  51 , Training  1   0
+Iteration  52 , Training  1   1
+Iteration  52 , Training  0   1
+Iteration  52 , Training  1   0
+Iteration  52 , Training  0   0
+Iteration  53 , Training  0   1
+Iteration  53 , Training  0   0
+Iteration  53 , Training  1   0
+Iteration  53 , Training  1   1
+Iteration  54 , Training  1   0
+Iteration  54 , Training  0   1
+Iteration  54 , Training  0   0
+Iteration  54 , Training  1   1
+Iteration  55 , Training  1   0
+Iteration  55 , Training  1   1
+Iteration  55 , Training  0   1
+Iteration  55 , Training  0   0
+Iteration  56 , Training  1   0
+Iteration  56 , Training  1   1
+Iteration  56 , Training  0   0
+Iteration  56 , Training  0   1
+Iteration  57 , Training  1   1
+Iteration  57 , Training  0   0
+Iteration  57 , Training  0   1
+Iteration  57 , Training  1   0
+Iteration  58 , Training  0   1
+Iteration  58 , Training  1   0
+Iteration  58 , Training  1   1
+Iteration  58 , Training  0   0
+Iteration  59 , Training  0   0
+Iteration  59 , Training  0   1
+Iteration  59 , Training  1   1
+Iteration  59 , Training  1   0
+Iteration  60 , Training  1   0
+Iteration  60 , Training  0   1
+Iteration  60 , Training  1   1
+Iteration  60 , Training  0   0
+Iteration  61 , Training  1   1
+Iteration  61 , Training  0   1
+Iteration  61 , Training  1   0
+Iteration  61 , Training  0   0
+Iteration  62 , Training  0   1
+Iteration  62 , Training  0   0
+Iteration  62 , Training  1   1
+Iteration  62 , Training  1   0
+Iteration  63 , Training  0   1
+Iteration  63 , Training  1   1
+Iteration  63 , Training  0   0
+Iteration  63 , Training  1   0
+Iteration  64 , Training  0   1
+Iteration  64 , Training  0   0
+Iteration  64 , Training  1   0
+Iteration  64 , Training  1   1
+Iteration  65 , Training  0   0
+Iteration  65 , Training  1   0
+Iteration  65 , Training  1   1
+Iteration  65 , Training  0   1
+Iteration  66 , Training  1   1
+Iteration  66 , Training  0   1
+Iteration  66 , Training  1   0
+Iteration  66 , Training  0   0
+Iteration  67 , Training  1   0
+Iteration  67 , Training  0   0
+Iteration  67 , Training  1   1
+Iteration  67 , Training  0   1
+Iteration  68 , Training  1   1
+Iteration  68 , Training  1   0
+Iteration  68 , Training  0   1
+Iteration  68 , Training  0   0
+Iteration  69 , Training  1   1
+Iteration  69 , Training  0   0
+Iteration  69 , Training  0   1
+Iteration  69 , Training  1   0
+Iteration  70 , Training  1   1
+Iteration  70 , Training  0   0
+Iteration  70 , Training  1   0
+Iteration  70 , Training  0   1
+Iteration  71 , Training  0   0
+Iteration  71 , Training  1   0
+Iteration  71 , Training  1   1
+Iteration  71 , Training  0   1
+Iteration  72 , Training  1   1
+Iteration  72 , Training  1   0
+Iteration  72 , Training  0   0
+Iteration  72 , Training  0   1
+Iteration  73 , Training  1   0
+Iteration  73 , Training  0   0
+Iteration  73 , Training  1   1
+Iteration  73 , Training  0   1
+Iteration  74 , Training  1   1
+Iteration  74 , Training  0   1
+Iteration  74 , Training  0   0
+Iteration  74 , Training  1   0
+Iteration  75 , Training  0   1
+Iteration  75 , Training  0   0
+Iteration  75 , Training  1   1
+Iteration  75 , Training  1   0
+Iteration  76 , Training  0   0
+Iteration  76 , Training  1   0
+Iteration  76 , Training  1   1
+Iteration  76 , Training  0   1
+Iteration  77 , Training  1   1
+Iteration  77 , Training  0   0
+Iteration  77 , Training  1   0
+Iteration  77 , Training  0   1
+Iteration  78 , Training  1   1
+Iteration  78 , Training  0   1
+Iteration  78 , Training  1   0
+Iteration  78 , Training  0   0
+Iteration  79 , Training  1   1
+Iteration  79 , Training  0   0
+Iteration  79 , Training  0   1
+Iteration  79 , Training  1   0
+Iteration  80 , Training  0   1
+Iteration  80 , Training  0   0
+Iteration  80 , Training  1   0
+Iteration  80 , Training  1   1
+Iteration  81 , Training  1   1
+Iteration  81 , Training  1   0
+Iteration  81 , Training  0   0
+Iteration  81 , Training  0   1
+Iteration  82 , Training  0   0
+Iteration  82 , Training  1   1
+Iteration  82 , Training  0   1
+Iteration  82 , Training  1   0
+Iteration  83 , Training  1   0
+Iteration  83 , Training  1   1
+Iteration  83 , Training  0   0
+Iteration  83 , Training  0   1
+Iteration  84 , Training  0   1
+Iteration  84 , Training  1   0
+Iteration  84 , Training  0   0
+Iteration  84 , Training  1   1
+Iteration  85 , Training  1   0
+Iteration  85 , Training  0   1
+Iteration  85 , Training  0   0
+Iteration  85 , Training  1   1
+Iteration  86 , Training  1   0
+Iteration  86 , Training  0   1
+Iteration  86 , Training  0   0
+Iteration  86 , Training  1   1
+Iteration  87 , Training  1   0
+Iteration  87 , Training  1   1
+Iteration  87 , Training  0   0
+Iteration  87 , Training  0   1
+Iteration  88 , Training  0   1
+Iteration  88 , Training  0   0
+Iteration  88 , Training  1   0
+Iteration  88 , Training  1   1
+Iteration  89 , Training  1   0
+Iteration  89 , Training  0   1
+Iteration  89 , Training  1   1
+Iteration  89 , Training  0   0
+Iteration  90 , Training  1   0
+Iteration  90 , Training  1   1
+Iteration  90 , Training  0   1
+Iteration  90 , Training  0   0
+Iteration  91 , Training  0   1
+Iteration  91 , Training  1   1
+Iteration  91 , Training  1   0
+Iteration  91 , Training  0   0
+Iteration  92 , Training  1   1
+Iteration  92 , Training  0   0
+Iteration  92 , Training  1   0
+Iteration  92 , Training  0   1
+Iteration  93 , Training  1   1
+Iteration  93 , Training  0   0
+Iteration  93 , Training  0   1
+Iteration  93 , Training  1   0
+Iteration  94 , Training  1   1
+Iteration  94 , Training  1   0
+Iteration  94 , Training  0   0
+Iteration  94 , Training  0   1
+Iteration  95 , Training  0   0
+Iteration  95 , Training  1   1
+Iteration  95 , Training  1   0
+Iteration  95 , Training  0   1
+Iteration  96 , Training  1   1
+Iteration  96 , Training  0   0
+Iteration  96 , Training  1   0
+Iteration  96 , Training  0   1
+Iteration  97 , Training  0   0
+Iteration  97 , Training  1   1
+Iteration  97 , Training  1   0
+Iteration  97 , Training  0   1
+Iteration  98 , Training  0   0
+Iteration  98 , Training  0   1
+Iteration  98 , Training  1   1
+Iteration  98 , Training  1   0
+Iteration  99 , Training  0   1
+Iteration  99 , Training  1   1
+Iteration  99 , Training  0   0
+Iteration  99 , Training  1   0
+Iteration  100 , Training  0   0
+Iteration  100 , Training  1   1
+Iteration  100 , Training  1   0
+Iteration  100 , Training  0   1
+Iteration  101 , Training  0   1
+Iteration  101 , Training  0   0
+Iteration  101 , Training  1   1
+Iteration  101 , Training  1   0
+Iteration  102 , Training  0   0
+Iteration  102 , Training  0   1
+Iteration  102 , Training  1   1
+Iteration  102 , Training  1   0
+Iteration  103 , Training  1   1
+Iteration  103 , Training  0   0
+Iteration  103 , Training  1   0
+Iteration  103 , Training  0   1
+Iteration  104 , Training  1   0
+Iteration  104 , Training  1   1
+Iteration  104 , Training  0   1
+Iteration  104 , Training  0   0
+Iteration  105 , Training  0   0
+Iteration  105 , Training  1   1
+Iteration  105 , Training  1   0
+Iteration  105 , Training  0   1
+Iteration  106 , Training  1   1
+Iteration  106 , Training  1   0
+Iteration  106 , Training  0   0
+Iteration  106 , Training  0   1
+Iteration  107 , Training  0   0
+Iteration  107 , Training  0   1
+Iteration  107 , Training  1   1
+Iteration  107 , Training  1   0
+Iteration  108 , Training  0   0
+Iteration  108 , Training  1   0
+Iteration  108 , Training  1   1
+Iteration  108 , Training  0   1
+Iteration  109 , Training  0   0
+Iteration  109 , Training  0   1
+Iteration  109 , Training  1   0
+Iteration  109 , Training  1   1
+Iteration  110 , Training  0   1
+Iteration  110 , Training  0   0
+Iteration  110 , Training  1   0
+Iteration  110 , Training  1   1
+Iteration  111 , Training  0   1
+Iteration  111 , Training  0   0
+Iteration  111 , Training  1   0
+Iteration  111 , Training  1   1
+Iteration  112 , Training  0   1
+Iteration  112 , Training  0   0
+Iteration  112 , Training  1   0
+Iteration  112 , Training  1   1
+Iteration  113 , Training  1   1
+Iteration  113 , Training  1   0
+Iteration  113 , Training  0   1
+Iteration  113 , Training  0   0
+Iteration  114 , Training  1   1
+Iteration  114 , Training  1   0
+Iteration  114 , Training  0   0
+Iteration  114 , Training  0   1
+Iteration  115 , Training  1   1
+Iteration  115 , Training  0   1
+Iteration  115 , Training  1   0
+Iteration  115 , Training  0   0
+Iteration  116 , Training  0   1
+Iteration  116 , Training  1   0
+Iteration  116 , Training  1   1
+Iteration  116 , Training  0   0
+Iteration  117 , Training  1   0
+Iteration  117 , Training  1   1
+Iteration  117 , Training  0   0
+Iteration  117 , Training  0   1
+Iteration  118 , Training  1   1
+Iteration  118 , Training  1   0
+Iteration  118 , Training  0   1
+Iteration  118 , Training  0   0
+Iteration  119 , Training  0   0
+Iteration  119 , Training  1   1
+Iteration  119 , Training  1   0
+Iteration  119 , Training  0   1
+Iteration  120 , Training  1   0
+Iteration  120 , Training  0   1
+Iteration  120 , Training  0   0
+Iteration  120 , Training  1   1
+Iteration  121 , Training  1   1
+Iteration  121 , Training  0   0
+Iteration  121 , Training  1   0
+Iteration  121 , Training  0   1
+Iteration  122 , Training  0   0
+Iteration  122 , Training  1   1
+Iteration  122 , Training  0   1
+Iteration  122 , Training  1   0
+Iteration  123 , Training  1   0
+Iteration  123 , Training  0   0
+Iteration  123 , Training  0   1
+Iteration  123 , Training  1   1
+Iteration  124 , Training  1   0
+Iteration  124 , Training  0   1
+Iteration  124 , Training  0   0
+Iteration  124 , Training  1   1
+Iteration  125 , Training  1   0
+Iteration  125 , Training  1   1
+Iteration  125 , Training  0   1
+Iteration  125 , Training  0   0
+Iteration  126 , Training  1   1
+Iteration  126 , Training  1   0
+Iteration  126 , Training  0   0
+Iteration  126 , Training  0   1
+Iteration  127 , Training  1   1
+Iteration  127 , Training  0   0
+Iteration  127 , Training  1   0
+Iteration  127 , Training  0   1
+Iteration  128 , Training  0   1
+Iteration  128 , Training  1   1
+Iteration  128 , Training  1   0
+Iteration  128 , Training  0   0
+Iteration  129 , Training  0   0
+Iteration  129 , Training  1   0
+Iteration  129 , Training  0   1
+Iteration  129 , Training  1   1
+Iteration  130 , Training  1   0
+Iteration  130 , Training  0   1
+Iteration  130 , Training  0   0
+Iteration  130 , Training  1   1
+Iteration  131 , Training  0   0
+Iteration  131 , Training  1   0
+Iteration  131 , Training  0   1
+Iteration  131 , Training  1   1
+Iteration  132 , Training  1   0
+Iteration  132 , Training  1   1
+Iteration  132 , Training  0   1
+Iteration  132 , Training  0   0
+Iteration  133 , Training  0   1
+Iteration  133 , Training  1   0
+Iteration  133 , Training  0   0
+Iteration  133 , Training  1   1
+Iteration  134 , Training  1   1
+Iteration  134 , Training  0   0
+Iteration  134 , Training  0   1
+Iteration  134 , Training  1   0
+Iteration  135 , Training  0   0
+Iteration  135 , Training  1   1
+Iteration  135 , Training  0   1
+Iteration  135 , Training  1   0
+Iteration  136 , Training  1   0
+Iteration  136 , Training  1   1
+Iteration  136 , Training  0   1
+Iteration  136 , Training  0   0
+Iteration  137 , Training  0   1
+Iteration  137 , Training  0   0
+Iteration  137 , Training  1   0
+Iteration  137 , Training  1   1
+Iteration  138 , Training  1   0
+Iteration  138 , Training  1   1
+Iteration  138 , Training  0   0
+Iteration  138 , Training  0   1
+Iteration  139 , Training  0   0
+Iteration  139 , Training  1   0
+Iteration  139 , Training  0   1
+Iteration  139 , Training  1   1
+Iteration  140 , Training  0   0
+Iteration  140 , Training  1   1
+Iteration  140 , Training  0   1
+Iteration  140 , Training  1   0
+Iteration  141 , Training  1   0
+Iteration  141 , Training  0   0
+Iteration  141 , Training  1   1
+Iteration  141 , Training  0   1
+Iteration  142 , Training  0   1
+Iteration  142 , Training  1   0
+Iteration  142 , Training  1   1
+Iteration  142 , Training  0   0
+Iteration  143 , Training  1   1
+Iteration  143 , Training  0   1
+Iteration  143 , Training  1   0
+Iteration  143 , Training  0   0
+Iteration  144 , Training  0   0
+Iteration  144 , Training  1   0
+Iteration  144 , Training  1   1
+Iteration  144 , Training  0   1
+Iteration  145 , Training  0   0
+Iteration  145 , Training  1   0
+Iteration  145 , Training  0   1
+Iteration  145 , Training  1   1
+Iteration  146 , Training  1   0
+Iteration  146 , Training  1   1
+Iteration  146 , Training  0   0
+Iteration  146 , Training  0   1
+Iteration  147 , Training  0   1
+Iteration  147 , Training  1   0
+Iteration  147 , Training  0   0
+Iteration  147 , Training  1   1
+Iteration  148 , Training  0   0
+Iteration  148 , Training  0   1
+Iteration  148 , Training  1   0
+Iteration  148 , Training  1   1
+Iteration  149 , Training  1   0
+Iteration  149 , Training  1   1
+Iteration  149 , Training  0   0
+Iteration  149 , Training  0   1
+Iteration  150 , Training  1   1
+Iteration  150 , Training  1   0
+Iteration  150 , Training  0   1
+Iteration  150 , Training  0   0
+Iteration  151 , Training  0   1
+Iteration  151 , Training  1   1
+Iteration  151 , Training  1   0
+Iteration  151 , Training  0   0
+Iteration  152 , Training  1   0
+Iteration  152 , Training  1   1
+Iteration  152 , Training  0   0
+Iteration  152 , Training  0   1
+Iteration  153 , Training  0   1
+Iteration  153 , Training  1   1
+Iteration  153 , Training  1   0
+Iteration  153 , Training  0   0
+Iteration  154 , Training  1   0
+Iteration  154 , Training  0   0
+Iteration  154 , Training  1   1
+Iteration  154 , Training  0   1
+Iteration  155 , Training  1   0
+Iteration  155 , Training  0   1
+Iteration  155 , Training  0   0
+Iteration  155 , Training  1   1
+Iteration  156 , Training  1   0
+Iteration  156 , Training  0   0
+Iteration  156 , Training  1   1
+Iteration  156 , Training  0   1
+Iteration  157 , Training  1   0
+Iteration  157 , Training  1   1
+Iteration  157 , Training  0   1
+Iteration  157 , Training  0   0
+Iteration  158 , Training  1   1
+Iteration  158 , Training  1   0
+Iteration  158 , Training  0   0
+Iteration  158 , Training  0   1
+Iteration  159 , Training  1   0
+Iteration  159 , Training  0   1
+Iteration  159 , Training  0   0
+Iteration  159 , Training  1   1
+Iteration  160 , Training  0   1
+Iteration  160 , Training  0   0
+Iteration  160 , Training  1   0
+Iteration  160 , Training  1   1
+Iteration  161 , Training  0   0
+Iteration  161 , Training  1   1
+Iteration  161 , Training  1   0
+Iteration  161 , Training  0   1
+Iteration  162 , Training  1   1
+Iteration  162 , Training  0   0
+Iteration  162 , Training  1   0
+Iteration  162 , Training  0   1
+Iteration  163 , Training  0   0
+Iteration  163 , Training  0   1
+Iteration  163 , Training  1   0
+Iteration  163 , Training  1   1
+Iteration  164 , Training  1   1
+Iteration  164 , Training  0   0
+Iteration  164 , Training  0   1
+Iteration  164 , Training  1   0
+Iteration  165 , Training  0   0
+Iteration  165 , Training  1   1
+Iteration  165 , Training  1   0
+Iteration  165 , Training  0   1
+Iteration  166 , Training  1   1
+Iteration  166 , Training  0   1
+Iteration  166 , Training  1   0
+Iteration  166 , Training  0   0
+Iteration  167 , Training  0   0
+Iteration  167 , Training  1   0
+Iteration  167 , Training  1   1
+Iteration  167 , Training  0   1
+Iteration  168 , Training  1   0
+Iteration  168 , Training  1   1
+Iteration  168 , Training  0   0
+Iteration  168 , Training  0   1
+Iteration  169 , Training  1   1
+Iteration  169 , Training  0   0
+Iteration  169 , Training  1   0
+Iteration  169 , Training  0   1
+Iteration  170 , Training  0   1
+Iteration  170 , Training  1   0
+Iteration  170 , Training  0   0
+Iteration  170 , Training  1   1
+Iteration  171 , Training  0   0
+Iteration  171 , Training  1   1
+Iteration  171 , Training  0   1
+Iteration  171 , Training  1   0
+Iteration  172 , Training  0   0
+Iteration  172 , Training  1   0
+Iteration  172 , Training  1   1
+Iteration  172 , Training  0   1
+Iteration  173 , Training  1   0
+Iteration  173 , Training  0   0
+Iteration  173 , Training  1   1
+Iteration  173 , Training  0   1
+Iteration  174 , Training  1   1
+Iteration  174 , Training  0   1
+Iteration  174 , Training  0   0
+Iteration  174 , Training  1   0
+Iteration  175 , Training  1   0
+Iteration  175 , Training  1   1
+Iteration  175 , Training  0   0
+Iteration  175 , Training  0   1
+Iteration  176 , Training  1   0
+Iteration  176 , Training  0   1
+Iteration  176 , Training  1   1
+Iteration  176 , Training  0   0
+Iteration  177 , Training  1   1
+Iteration  177 , Training  1   0
+Iteration  177 , Training  0   1
+Iteration  177 , Training  0   0
+Iteration  178 , Training  1   0
+Iteration  178 , Training  0   0
+Iteration  178 , Training  1   1
+Iteration  178 , Training  0   1
+Iteration  179 , Training  0   0
+Iteration  179 , Training  0   1
+Iteration  179 , Training  1   1
+Iteration  179 , Training  1   0
+Iteration  180 , Training  1   0
+Iteration  180 , Training  1   1
+Iteration  180 , Training  0   0
+Iteration  180 , Training  0   1
+Iteration  181 , Training  1   1
+Iteration  181 , Training  0   0
+Iteration  181 , Training  0   1
+Iteration  181 , Training  1   0
+Iteration  182 , Training  0   0
+Iteration  182 , Training  1   0
+Iteration  182 , Training  0   1
+Iteration  182 , Training  1   1
+Iteration  183 , Training  1   1
+Iteration  183 , Training  0   0
+Iteration  183 , Training  1   0
+Iteration  183 , Training  0   1
+Iteration  184 , Training  0   1
+Iteration  184 , Training  1   0
+Iteration  184 , Training  1   1
+Iteration  184 , Training  0   0
+Iteration  185 , Training  1   0
+Iteration  185 , Training  0   0
+Iteration  185 , Training  0   1
+Iteration  185 , Training  1   1
+Iteration  186 , Training  0   0
+Iteration  186 , Training  0   1
+Iteration  186 , Training  1   1
+Iteration  186 , Training  1   0
+Iteration  187 , Training  1   0
+Iteration  187 , Training  0   0
+Iteration  187 , Training  1   1
+Iteration  187 , Training  0   1
+Iteration  188 , Training  0   1
+Iteration  188 , Training  1   0
+Iteration  188 , Training  0   0
+Iteration  188 , Training  1   1
+Iteration  189 , Training  1   1
+Iteration  189 , Training  0   1
+Iteration  189 , Training  1   0
+Iteration  189 , Training  0   0
+Iteration  190 , Training  1   0
+Iteration  190 , Training  1   1
+Iteration  190 , Training  0   0
+Iteration  190 , Training  0   1
+Iteration  191 , Training  1   1
+Iteration  191 , Training  0   1
+Iteration  191 , Training  0   0
+Iteration  191 , Training  1   0
+Iteration  192 , Training  1   1
+Iteration  192 , Training  1   0
+Iteration  192 , Training  0   0
+Iteration  192 , Training  0   1
+Iteration  193 , Training  0   0
+Iteration  193 , Training  1   0
+Iteration  193 , Training  0   1
+Iteration  193 , Training  1   1
+Iteration  194 , Training  1   1
+Iteration  194 , Training  0   0
+Iteration  194 , Training  1   0
+Iteration  194 , Training  0   1
+Iteration  195 , Training  1   1
+Iteration  195 , Training  1   0
+Iteration  195 , Training  0   1
+Iteration  195 , Training  0   0
+Iteration  196 , Training  0   0
+Iteration  196 , Training  0   1
+Iteration  196 , Training  1   0
+Iteration  196 , Training  1   1
+Iteration  197 , Training  1   0
+Iteration  197 , Training  0   0
+Iteration  197 , Training  1   1
+Iteration  197 , Training  0   1
+Iteration  198 , Training  1   1
+Iteration  198 , Training  1   0
+Iteration  198 , Training  0   1
+Iteration  198 , Training  0   0
+Iteration  199 , Training  1   1
+Iteration  199 , Training  0   1
+Iteration  199 , Training  0   0
+Iteration  199 , Training  1   0
+Iteration  200 , Training  0   1
+Iteration  200 , Training  0   0
+Iteration  200 , Training  1   0
+Iteration  200 , Training  1   1
+Iteration  201 , Training  0   0
+Iteration  201 , Training  0   1
+Iteration  201 , Training  1   1
+Iteration  201 , Training  1   0
+Iteration  202 , Training  1   0
+Iteration  202 , Training  0   0
+Iteration  202 , Training  0   1
+Iteration  202 , Training  1   1
+Iteration  203 , Training  0   1
+Iteration  203 , Training  1   1
+Iteration  203 , Training  1   0
+Iteration  203 , Training  0   0
+Iteration  204 , Training  0   0
+Iteration  204 , Training  1   1
+Iteration  204 , Training  1   0
+Iteration  204 , Training  0   1
+Iteration  205 , Training  0   0
+Iteration  205 , Training  1   1
+Iteration  205 , Training  0   1
+Iteration  205 , Training  1   0
+Iteration  206 , Training  1   0
+Iteration  206 , Training  0   1
+Iteration  206 , Training  1   1
+Iteration  206 , Training  0   0
+Iteration  207 , Training  0   0
+Iteration  207 , Training  1   0
+Iteration  207 , Training  1   1
+Iteration  207 , Training  0   1
+Iteration  208 , Training  1   0
+Iteration  208 , Training  0   1
+Iteration  208 , Training  0   0
+Iteration  208 , Training  1   1
+Iteration  209 , Training  0   0
+Iteration  209 , Training  0   1
+Iteration  209 , Training  1   1
+Iteration  209 , Training  1   0
+Iteration  210 , Training  0   1
+Iteration  210 , Training  1   1
+Iteration  210 , Training  0   0
+Iteration  210 , Training  1   0
+Iteration  211 , Training  0   1
+Iteration  211 , Training  0   0
+Iteration  211 , Training  1   0
+Iteration  211 , Training  1   1
+Iteration  212 , Training  1   0
+Iteration  212 , Training  1   1
+Iteration  212 , Training  0   1
+Iteration  212 , Training  0   0
+Iteration  213 , Training  0   0
+Iteration  213 , Training  1   1
+Iteration  213 , Training  1   0
+Iteration  213 , Training  0   1
+Iteration  214 , Training  0   0
+Iteration  214 , Training  0   1
+Iteration  214 , Training  1   1
+Iteration  214 , Training  1   0
+Iteration  215 , Training  0   0
+Iteration  215 , Training  0   1
+Iteration  215 , Training  1   1
+Iteration  215 , Training  1   0
+Iteration  216 , Training  0   0
+Iteration  216 , Training  1   0
+Iteration  216 , Training  1   1
+Iteration  216 , Training  0   1
+Iteration  217 , Training  0   0
+Iteration  217 , Training  1   0
+Iteration  217 , Training  1   1
+Iteration  217 , Training  0   1
+Iteration  218 , Training  0   1
+Iteration  218 , Training  1   0
+Iteration  218 , Training  1   1
+Iteration  218 , Training  0   0
+Iteration  219 , Training  0   1
+Iteration  219 , Training  1   0
+Iteration  219 , Training  0   0
+Iteration  219 , Training  1   1
+Iteration  220 , Training  1   1
+Iteration  220 , Training  1   0
+Iteration  220 , Training  0   0
+Iteration  220 , Training  0   1
+Iteration  221 , Training  1   1
+Iteration  221 , Training  0   0
+Iteration  221 , Training  1   0
+Iteration  221 , Training  0   1
+Iteration  222 , Training  0   0
+Iteration  222 , Training  1   1
+Iteration  222 , Training  1   0
+Iteration  222 , Training  0   1
+Iteration  223 , Training  0   1
+Iteration  223 , Training  1   0
+Iteration  223 , Training  1   1
+Iteration  223 , Training  0   0
+Iteration  224 , Training  0   1
+Iteration  224 , Training  1   1
+Iteration  224 , Training  1   0
+Iteration  224 , Training  0   0
+Iteration  225 , Training  1   1
+Iteration  225 , Training  1   0
+Iteration  225 , Training  0   0
+Iteration  225 , Training  0   1
+Iteration  226 , Training  1   0
+Iteration  226 , Training  1   1
+Iteration  226 , Training  0   1
+Iteration  226 , Training  0   0
+Iteration  227 , Training  0   1
+Iteration  227 , Training  1   1
+Iteration  227 , Training  0   0
+Iteration  227 , Training  1   0
+Iteration  228 , Training  1   1
+Iteration  228 , Training  0   1
+Iteration  228 , Training  0   0
+Iteration  228 , Training  1   0
+Iteration  229 , Training  1   1
+Iteration  229 , Training  1   0
+Iteration  229 , Training  0   1
+Iteration  229 , Training  0   0
+Iteration  230 , Training  0   0
+Iteration  230 , Training  1   0
+Iteration  230 , Training  1   1
+Iteration  230 , Training  0   1
+Iteration  231 , Training  0   1
+Iteration  231 , Training  1   0
+Iteration  231 , Training  1   1
+Iteration  231 , Training  0   0
+Iteration  232 , Training  0   0
+Iteration  232 , Training  0   1
+Iteration  232 , Training  1   0
+Iteration  232 , Training  1   1
+Iteration  233 , Training  1   1
+Iteration  233 , Training  1   0
+Iteration  233 , Training  0   0
+Iteration  233 , Training  0   1
+Iteration  234 , Training  0   0
+Iteration  234 , Training  0   1
+Iteration  234 , Training  1   0
+Iteration  234 , Training  1   1
+Iteration  235 , Training  1   0
+Iteration  235 , Training  1   1
+Iteration  235 , Training  0   0
+Iteration  235 , Training  0   1
+Iteration  236 , Training  0   1
+Iteration  236 , Training  1   0
+Iteration  236 , Training  1   1
+Iteration  236 , Training  0   0
+Iteration  237 , Training  1   1
+Iteration  237 , Training  0   1
+Iteration  237 , Training  0   0
+Iteration  237 , Training  1   0
+Iteration  238 , Training  0   1
+Iteration  238 , Training  0   0
+Iteration  238 , Training  1   1
+Iteration  238 , Training  1   0
+Iteration  239 , Training  1   1
+Iteration  239 , Training  0   1
+Iteration  239 , Training  0   0
+Iteration  239 , Training  1   0
+Iteration  240 , Training  0   0
+Iteration  240 , Training  1   0
+Iteration  240 , Training  1   1
+Iteration  240 , Training  0   1
+Iteration  241 , Training  1   0
+Iteration  241 , Training  1   1
+Iteration  241 , Training  0   0
+Iteration  241 , Training  0   1
+Iteration  242 , Training  0   1
+Iteration  242 , Training  1   0
+Iteration  242 , Training  1   1
+Iteration  242 , Training  0   0
+Iteration  243 , Training  1   0
+Iteration  243 , Training  0   0
+Iteration  243 , Training  1   1
+Iteration  243 , Training  0   1
+Iteration  244 , Training  0   0
+Iteration  244 , Training  0   1
+Iteration  244 , Training  1   0
+Iteration  244 , Training  1   1
+Iteration  245 , Training  1   1
+Iteration  245 , Training  0   1
+Iteration  245 , Training  1   0
+Iteration  245 , Training  0   0
+Iteration  246 , Training  0   1
+Iteration  246 , Training  1   1
+Iteration  246 , Training  0   0
+Iteration  246 , Training  1   0
+Iteration  247 , Training  0   1
+Iteration  247 , Training  1   0
+Iteration  247 , Training  0   0
+Iteration  247 , Training  1   1
+Iteration  248 , Training  1   0
+Iteration  248 , Training  1   1
+Iteration  248 , Training  0   0
+Iteration  248 , Training  0   1
+Iteration  249 , Training  0   0
+Iteration  249 , Training  0   1
+Iteration  249 , Training  1   1
+Iteration  249 , Training  1   0
+Iteration  250 , Training  1   1
+Iteration  250 , Training  0   1
+Iteration  250 , Training  1   0
+Iteration  250 , Training  0   0
+Iteration  251 , Training  1   0
+Iteration  251 , Training  0   0
+Iteration  251 , Training  1   1
+Iteration  251 , Training  0   1
+Iteration  252 , Training  1   1
+Iteration  252 , Training  1   0
+Iteration  252 , Training  0   0
+Iteration  252 , Training  0   1
+Iteration  253 , Training  0   0
+Iteration  253 , Training  1   1
+Iteration  253 , Training  1   0
+Iteration  253 , Training  0   1
+Iteration  254 , Training  0   0
+Iteration  254 , Training  1   0
+Iteration  254 , Training  0   1
+Iteration  254 , Training  1   1
+Iteration  255 , Training  1   0
+Iteration  255 , Training  0   1
+Iteration  255 , Training  0   0
+Iteration  255 , Training  1   1
+Iteration  256 , Training  0   0
+Iteration  256 , Training  1   0
+Iteration  256 , Training  1   1
+Iteration  256 , Training  0   1
+Iteration  257 , Training  0   0
+Iteration  257 , Training  0   1
+Iteration  257 , Training  1   1
+Iteration  257 , Training  1   0
+Iteration  258 , Training  1   1
+Iteration  258 , Training  0   1
+Iteration  258 , Training  1   0
+Iteration  258 , Training  0   0
+Iteration  259 , Training  1   1
+Iteration  259 , Training  0   0
+Iteration  259 , Training  0   1
+Iteration  259 , Training  1   0
+Iteration  260 , Training  0   1
+Iteration  260 , Training  1   1
+Iteration  260 , Training  1   0
+Iteration  260 , Training  0   0
+Iteration  261 , Training  0   1
+Iteration  261 , Training  1   0
+Iteration  261 , Training  0   0
+Iteration  261 , Training  1   1
+Iteration  262 , Training  0   1
+Iteration  262 , Training  0   0
+Iteration  262 , Training  1   1
+Iteration  262 , Training  1   0
+Iteration  263 , Training  0   0
+Iteration  263 , Training  1   1
+Iteration  263 , Training  1   0
+Iteration  263 , Training  0   1
+Iteration  264 , Training  1   1
+Iteration  264 , Training  0   0
+Iteration  264 , Training  1   0
+Iteration  264 , Training  0   1
+Iteration  265 , Training  1   0
+Iteration  265 , Training  1   1
+Iteration  265 , Training  0   1
+Iteration  265 , Training  0   0
+Iteration  266 , Training  1   1
+Iteration  266 , Training  0   0
+Iteration  266 , Training  1   0
+Iteration  266 , Training  0   1
+Iteration  267 , Training  1   0
+Iteration  267 , Training  0   1
+Iteration  267 , Training  0   0
+Iteration  267 , Training  1   1
+Iteration  268 , Training  0   0
+Iteration  268 , Training  0   1
+Iteration  268 , Training  1   0
+Iteration  268 , Training  1   1
+Iteration  269 , Training  1   1
+Iteration  269 , Training  1   0
+Iteration  269 , Training  0   1
+Iteration  269 , Training  0   0
+Iteration  270 , Training  1   0
+Iteration  270 , Training  1   1
+Iteration  270 , Training  0   0
+Iteration  270 , Training  0   1
+Iteration  271 , Training  0   1
+Iteration  271 , Training  1   1
+Iteration  271 , Training  1   0
+Iteration  271 , Training  0   0
+Iteration  272 , Training  0   0
+Iteration  272 , Training  1   1
+Iteration  272 , Training  1   0
+Iteration  272 , Training  0   1
+Iteration  273 , Training  0   0
+Iteration  273 , Training  1   1
+Iteration  273 , Training  0   1
+Iteration  273 , Training  1   0
+Iteration  274 , Training  0   1
+Iteration  274 , Training  0   0
+Iteration  274 , Training  1   1
+Iteration  274 , Training  1   0
+Iteration  275 , Training  1   0
+Iteration  275 , Training  0   1
+Iteration  275 , Training  0   0
+Iteration  275 , Training  1   1
+Iteration  276 , Training  1   0
+Iteration  276 , Training  1   1
+Iteration  276 , Training  0   1
+Iteration  276 , Training  0   0
+Iteration  277 , Training  0   0
+Iteration  277 , Training  1   1
+Iteration  277 , Training  1   0
+Iteration  277 , Training  0   1
+Iteration  278 , Training  1   0
+Iteration  278 , Training  0   1
+Iteration  278 , Training  1   1
+Iteration  278 , Training  0   0
+Iteration  279 , Training  1   1
+Iteration  279 , Training  0   1
+Iteration  279 , Training  0   0
+Iteration  279 , Training  1   0
+Iteration  280 , Training  1   0
+Iteration  280 , Training  0   0
+Iteration  280 , Training  1   1
+Iteration  280 , Training  0   1
+Iteration  281 , Training  0   1
+Iteration  281 , Training  1   1
+Iteration  281 , Training  1   0
+Iteration  281 , Training  0   0
+Iteration  282 , Training  0   1
+Iteration  282 , Training  1   1
+Iteration  282 , Training  1   0
+Iteration  282 , Training  0   0
+Iteration  283 , Training  1   1
+Iteration  283 , Training  1   0
+Iteration  283 , Training  0   0
+Iteration  283 , Training  0   1
+Iteration  284 , Training  0   1
+Iteration  284 , Training  1   0
+Iteration  284 , Training  1   1
+Iteration  284 , Training  0   0
+Iteration  285 , Training  0   0
+Iteration  285 , Training  1   0
+Iteration  285 , Training  0   1
+Iteration  285 , Training  1   1
+Iteration  286 , Training  1   1
+Iteration  286 , Training  0   0
+Iteration  286 , Training  0   1
+Iteration  286 , Training  1   0
+Iteration  287 , Training  0   0
+Iteration  287 , Training  1   0
+Iteration  287 , Training  0   1
+Iteration  287 , Training  1   1
+Iteration  288 , Training  1   0
+Iteration  288 , Training  1   1
+Iteration  288 , Training  0   1
+Iteration  288 , Training  0   0
+Iteration  289 , Training  1   1
+Iteration  289 , Training  1   0
+Iteration  289 , Training  0   0
+Iteration  289 , Training  0   1
+Iteration  290 , Training  1   0
+Iteration  290 , Training  0   0
+Iteration  290 , Training  1   1
+Iteration  290 , Training  0   1
+Iteration  291 , Training  1   0
+Iteration  291 , Training  1   1
+Iteration  291 , Training  0   0
+Iteration  291 , Training  0   1
+Iteration  292 , Training  0   1
+Iteration  292 , Training  1   0
+Iteration  292 , Training  1   1
+Iteration  292 , Training  0   0
+Iteration  293 , Training  1   0
+Iteration  293 , Training  1   1
+Iteration  293 , Training  0   0
+Iteration  293 , Training  0   1
+Iteration  294 , Training  0   0
+Iteration  294 , Training  1   0
+Iteration  294 , Training  1   1
+Iteration  294 , Training  0   1
+Iteration  295 , Training  1   0
+Iteration  295 , Training  0   1
+Iteration  295 , Training  1   1
+Iteration  295 , Training  0   0
+Iteration  296 , Training  0   1
+Iteration  296 , Training  0   0
+Iteration  296 , Training  1   1
+Iteration  296 , Training  1   0
+Iteration  297 , Training  1   0
+Iteration  297 , Training  0   0
+Iteration  297 , Training  0   1
+Iteration  297 , Training  1   1
+Iteration  298 , Training  0   0
+Iteration  298 , Training  1   1
+Iteration  298 , Training  0   1
+Iteration  298 , Training  1   0
+Iteration  299 , Training  0   1
+Iteration  299 , Training  1   0
+Iteration  299 , Training  1   1
+Iteration  299 , Training  0   0
+Printing Learned Coefficients ..
+Input  to Hidden Inhibitory   =  <synapses_2.w: array([-0.00453173, -0.00462427, -0.00381723, ..., -0.00425642,
+       -0.0022147 , -0.00309454])>
+Input  to Hidden Excitatory 1 =  <synapses.w: array([  6.03050189e-04,   2.30298600e-03,   5.34141745e-04,
+         3.45020251e-03,   2.56791875e-03,   2.15952720e-03,
+         4.43369746e-03,   2.62870588e-03,   4.83897638e-03,
+         2.29081268e-03,   3.56394363e-03,   9.11546221e-04,
+         1.19142145e-05,   2.99697195e-03,   6.06921237e-04,
+         3.51524559e-03,   2.55120077e-03,   1.20780342e-03,
+         4.05498846e-03,   4.14415554e-03,   1.52381844e-05,
+         4.63626185e-03,   4.79905287e-03,   1.20949684e-03,
+         2.38309902e-03,   3.72999870e-03,   4.43701440e-03,
+         3.64638541e-03,   3.42182890e-03,   7.32488593e-04,
+         3.52007050e-03,   2.53464792e-03,   1.11891042e-03,
+         4.07392903e-03,   1.48869719e-04,   1.40567282e-03,
+         1.07055936e-03,   4.33222606e-03,   1.22279938e-03,
+         4.03326473e-03,   1.30751465e-04,   9.13502807e-04,
+         3.94905422e-03,   2.12472377e-03,   1.07022745e-03,
+         8.83986120e-04,   1.99164237e-03,   3.68558462e-04,
+         3.09828716e-03,   1.99358221e-03,   1.95621731e-03,
+         2.83772176e-03,   5.41080831e-04,   4.31771501e-03,
+         3.33529904e-04,   2.61873120e-03,   2.68832534e-03,
+         2.93980119e-03,   2.16863956e-03,   4.28624702e-03,
+         2.00037153e-03,   2.51813028e-03,   2.62396249e-03,
+         1.43288518e-03,   3.68819821e-04,   3.00033243e-03,
+         3.53147647e-03,   4.03399502e-03,   6.79853668e-04,
+         9.96852576e-04,   3.89092212e-03,   2.83671998e-03,
+         5.20822060e-04,   4.31437823e-03,   3.40713576e-03,
+         2.99114989e-04,   6.17767784e-04,   3.33171232e-03,
+         3.63297282e-03,   6.59419745e-05,   9.86619749e-04,
+         4.93730985e-03,   4.84416652e-03,   6.77002397e-04,
+         3.66809807e-03,   3.55874521e-03,   4.44935887e-03,
+         1.77238050e-04,   2.21728621e-03,   1.86916940e-03,
+         4.82481534e-03,   3.36054105e-03,   3.67737723e-03,
+         4.82595728e-03,   3.04008859e-03,   1.88764545e-03,
+         2.17605566e-03,   2.39628201e-03,   5.92760126e-04,
+         2.57930690e-03,   3.81836954e-03,   4.04374420e-03,
+         3.05084612e-04,   2.52969256e-03,   1.44532636e-03,
+         2.61127277e-03,   2.93957485e-03,   9.79518495e-04,
+         2.26440864e-03,   4.21439067e-03,   3.01569320e-03,
+         7.71924413e-04,   1.45522060e-03,   3.25078333e-03,
+         9.39444192e-04,   2.51328826e-03,   4.42041656e-03,
+         4.95018406e-03,   2.44980097e-03,   7.83086577e-04,
+         2.08985759e-03,   4.43744226e-03,   1.05666065e-03,
+         1.60896782e-03,   4.31140127e-03,   3.61223640e-03,
+         4.67462029e-04,   3.18752392e-03,   1.73634923e-03,
+         9.84964712e-04,   4.95052184e-03,   3.27590541e-03,
+         1.48344874e-03,   3.46322976e-03,   4.74048565e-03,
+         2.90471113e-03,   4.61368083e-03,   1.97169158e-03,
+         1.64594150e-03,   4.43001426e-03,   3.27210233e-03,
+         8.02218403e-04,   2.71634623e-03,   1.95692480e-03,
+         1.33344320e-03,   3.96491706e-03,   3.73624354e-03,
+         1.86650530e-03,   3.82882445e-03,   1.05819826e-03,
+         3.48704348e-03,   2.43944177e-03,   1.99559821e-03,
+         5.52933754e-04,   3.15383590e-03,   4.07115307e-03,
+         3.79156976e-03,   3.59978075e-03,   4.94635586e-04,
+         2.42870606e-04,   4.93665957e-03,   2.46102435e-03,
+         1.48961002e-04,   5.13668995e-04,   4.74555547e-03,
+         3.26360369e-03,   1.78439595e-03,   5.83922233e-04,
+         2.97695995e-03,   3.20882827e-03,   4.47060811e-03,
+         3.57659985e-03,   1.25196376e-03,   3.48189304e-03,
+         2.50976224e-03,   2.64263195e-03,   3.86811017e-03,
+         1.76518010e-03,   2.74876501e-03,   4.30873832e-03,
+         3.28254214e-03,   4.27920592e-03,   3.02509784e-03,
+         3.33079474e-03,   3.43960267e-03,   1.77301712e-03,
+         2.78932953e-03,   3.89984239e-03,   4.77471068e-03,
+         3.39914264e-03,   2.69182168e-03,   4.67393262e-03,
+         1.39375357e-03,   3.62088013e-03,   4.37532757e-03,
+         4.21893764e-03,   2.06641321e-03,   4.73458291e-04,
+         4.67245316e-03,   9.48662365e-04,   3.19113572e-03,
+         2.55517139e-04,   3.04366896e-03,   2.03244822e-03,
+         5.82925631e-04,   4.87594893e-03,   3.15436964e-03,
+         4.73705802e-03,   4.11154143e-03,   1.08325792e-03,
+         5.55887984e-05,   3.95785967e-04,   2.34953287e-03,
+         4.87439172e-04,   4.52896931e-03,   1.29851596e-03,
+         2.42640213e-03,   3.32133321e-03,   3.62775621e-03,
+         2.62572687e-03,   4.77323784e-03,   3.39797863e-03,
+         1.04922135e-03,   1.55797496e-03,   3.47005461e-03,
+         2.47637542e-03,   4.67890374e-03,   3.39269783e-03,
+         5.25654222e-04,   3.67543550e-03,   1.92209438e-03,
+         4.73943054e-03,   4.28374146e-04,   3.97335165e-03,
+         2.83442078e-03,   1.47473308e-03,   3.93481745e-03,
+         4.10666181e-03,   3.87870680e-03,   1.02177094e-03,
+         1.48636709e-03,   5.44450744e-05,   3.71982487e-03,
+         4.04498427e-03,   1.99262719e-05,   3.83584196e-03,
+         4.83184621e-03,   1.40701115e-03,   4.73657434e-03,
+         4.18593685e-03,   3.57073104e-04,   1.42004993e-03,
+         1.37992655e-03,   3.17319169e-03,   4.59544600e-03,
+         2.50424048e-03,   6.89758822e-04,   3.69273809e-03,
+         3.76216888e-03,   2.19594771e-03,   2.76207924e-03,
+         1.15283703e-03,   1.95330138e-03,   6.97394768e-04,
+         1.11273179e-03,   1.29150590e-03,   4.17416153e-03,
+         1.64337547e-03,   1.86564992e-03,   1.70875936e-03,
+         1.19164099e-03,   3.75635217e-03,   1.94834772e-03,
+         6.55582822e-05,   3.03278501e-03,   1.51552421e-03,
+         2.93237882e-03,   2.26524112e-03,   4.13710032e-03,
+         2.31099790e-04,   3.30029134e-03,   7.50942327e-04,
+         1.81393089e-03,   3.44230608e-03,   1.40245493e-03,
+         1.30931450e-03,   9.25283039e-04,   3.76303699e-03,
+         2.19861989e-03,   1.57537340e-03,   3.98623184e-03,
+         2.69268443e-03,   4.79698218e-03,   2.43680328e-03,
+         2.66939022e-03,   1.75995435e-03,   2.97743386e-03,
+         2.72506989e-03,   8.08871692e-04,   2.07347125e-03,
+         9.44188519e-04,   3.80118095e-03,   1.54991570e-03,
+         2.25977015e-04,   2.87325263e-03,   1.61539429e-03,
+         3.02120160e-03,   4.78956340e-03,   3.26788637e-03,
+         1.72585147e-03,   1.67967302e-04,   2.48421687e-03,
+         7.71687391e-04,   2.34189381e-03,   4.46676277e-03,
+         4.56628327e-03,   4.41744899e-03,   7.80706595e-04,
+         3.23978614e-04,   3.53036375e-03,   4.94069332e-03,
+         6.38287793e-04,   3.07284900e-03,   1.11620316e-03,
+         2.41066626e-03,   1.78047735e-03,   4.71040053e-03,
+         1.41795613e-03,   2.20325926e-03,   9.61087366e-04,
+         4.77013406e-03,   4.87818475e-03,   2.32271564e-03,
+         7.79788763e-04,   3.58405603e-03,   4.09378188e-03,
+         2.51263013e-03,   4.53461036e-03,   3.96808340e-04,
+         8.62345794e-04,   1.56022032e-03,   3.37130847e-03,
+         4.63041711e-03,   4.06215499e-03,   4.58354749e-03,
+         4.31241430e-03,   7.42140951e-04,   4.87281025e-03,
+         3.47247419e-03,   4.77035043e-03,   3.49085651e-03,
+         4.79135737e-03,   2.63007712e-04,   1.98328144e-04,
+         2.99619812e-03,   2.67115037e-03,   9.75832661e-04,
+         4.54937434e-03,   4.86583278e-03,   2.96599067e-03,
+         1.14807509e-03,   3.65156391e-03,   1.47454339e-03,
+         4.71595232e-03,   1.18102415e-03,   6.54988359e-04,
+         2.17129439e-03,   3.54507839e-04,   2.56839735e-03,
+         1.95983364e-03,   3.29532041e-03,   1.75542168e-03,
+         1.96862591e-03,   7.13261387e-04,   3.23385493e-03,
+         1.51859906e-03,   5.02638432e-04,   9.37697445e-04,
+         4.74446595e-03,   3.63878595e-03,   8.27422699e-04,
+         4.83456391e-03,   4.99705692e-03,   3.25789648e-03,
+         2.18782780e-03,   2.66325530e-03,   3.79228569e-03,
+         4.67012544e-03,   1.96254965e-03,   1.83656299e-03,
+         2.02323813e-03,   3.67951540e-03,   1.92561685e-03,
+         4.95436680e-03,   2.01323247e-04,   2.45896274e-03,
+         1.54661360e-03,   3.04485161e-03,   3.34812422e-03,
+         2.53960840e-03,   2.13808931e-03,   1.41474292e-03,
+         3.17816090e-03,   4.90304023e-03,   4.70129959e-03,
+         2.78435806e-03,   8.70851553e-04,   2.49009984e-03,
+         3.08241481e-03,   4.70592069e-03,   3.62450167e-03,
+         4.07488913e-03,   4.69789246e-03,   3.46996906e-03,
+         1.55540630e-03,   2.15515039e-03,   4.61217796e-03,
+         2.44346414e-03,   3.16728364e-04,   3.71096976e-03,
+         9.79461037e-04,   4.19757067e-03,   4.25130813e-03,
+         6.21587044e-04,   8.82905678e-04,   4.27258254e-03,
+         2.61139113e-04,   1.80398792e-03,   1.21690108e-03,
+         2.61452889e-03,   4.77148819e-03,   1.61301521e-03,
+         4.95903850e-03,   4.43764300e-03,   2.68661271e-03,
+         3.96407907e-03,   9.59007122e-04,   2.31134930e-03,
+         9.15473730e-04,   1.67342869e-05,   3.46730327e-03,
+         1.65537557e-03,   4.95677064e-04,   4.40454643e-04,
+         3.09192261e-03,   4.28379611e-03,   4.41755269e-03,
+         2.58626152e-03,   3.49442996e-03,   1.10572190e-03,
+         2.53051532e-03,   8.86445855e-05,   4.89635377e-03,
+         1.23627797e-03,   2.79988567e-03,   3.09909789e-03,
+         3.52609741e-03,   2.34992573e-03,   3.75596995e-03,
+         2.35334633e-03,   2.52517644e-03,   3.44805011e-03,
+         3.32794243e-03,   3.85977882e-03,   3.29245919e-03,
+         4.18383573e-03,   5.50346171e-04,   3.05447288e-03,
+         4.55211921e-03,   2.59010531e-03,   1.35847064e-03,
+         4.09533529e-04,   4.02400634e-04,   3.66056863e-03,
+         3.69322319e-04,   1.71240242e-03,   4.46423917e-03,
+         3.72203018e-03,   1.83576816e-03,   1.77653608e-03,
+         3.55897425e-03,   1.60275843e-03,   3.53387602e-04,
+         3.47314671e-03,   9.83660037e-04,   4.43928175e-03,
+         1.95188792e-03,   2.70952706e-03,   3.35315165e-03,
+         1.66136403e-03,   1.41576350e-03,   3.75697278e-03,
+         1.85973577e-03,   1.32290586e-03,   2.13124248e-03,
+         2.69802051e-03,   4.24789178e-03,   1.10951315e-03,
+         3.15870726e-03,   9.62796554e-04,   1.14382628e-03,
+         1.03299925e-03,   2.40595088e-03,   2.07642055e-03,
+         1.72314054e-03,   3.44960360e-03,   3.45077050e-03,
+         6.22419930e-04,   3.20078221e-03,   4.03853448e-03,
+         4.10063858e-03,   2.56550837e-03,   3.34111939e-03,
+         1.12170073e-03,   3.85687266e-03,   1.85218475e-03,
+         2.98366192e-03,   3.40097259e-03,   4.30067103e-03,
+         7.86887044e-04,   4.53503886e-03,   1.27303533e-03,
+         3.16386878e-04,   2.78028725e-03,   6.23506648e-04,
+         3.63734539e-03,   8.49276245e-04,   1.97373838e-03,
+         2.80141043e-04,   1.30979650e-03,   1.10676211e-03,
+         4.89674959e-03,   1.32666275e-03,   2.42753106e-03,
+         2.00646818e-03,   4.87726611e-03,   4.16521787e-03,
+         3.75876779e-03,   4.91713002e-03,   8.55652921e-04,
+         2.09117291e-03,   8.68493246e-04,   1.85667884e-03,
+         4.08025982e-03,   2.09215371e-03,   4.92737655e-03,
+         3.95320614e-03,   2.41013596e-03,   2.14759797e-03,
+         2.71537938e-03,   1.63488528e-03,   4.43324133e-03,
+         3.03142650e-03,   4.43703936e-03,   4.60310722e-03,
+         4.71537183e-06,   2.72945917e-03,   2.98279410e-03,
+         3.47180305e-03,   2.39933596e-04,   4.47051881e-04,
+         2.21745675e-04,   1.41979543e-04,   1.39972235e-03,
+         1.73341018e-03,   2.03915795e-03,   4.94370055e-04,
+         7.33066962e-04,   2.90582417e-03,   5.91603443e-04,
+         3.87077299e-03,   4.76543628e-03,   4.35165667e-03,
+         4.98755026e-03,   2.17670824e-03,   2.92139911e-03,
+         2.83678399e-03,   7.45385378e-04,   2.56335679e-04,
+         1.69660784e-03,   2.56742198e-03,   4.01884957e-03,
+         1.33241248e-03,   3.26513802e-04,   2.02295331e-03,
+         3.62244841e-03,   8.24519807e-04,   2.46767192e-03,
+         2.17554923e-04,   3.62573510e-03,   1.96496330e-03,
+         1.88622066e-03,   4.04184396e-03,   3.48745333e-03,
+         4.76708979e-03,   3.77469743e-03,   3.03959002e-03,
+         2.25593764e-03,   3.22964751e-03,   1.79939655e-03,
+         4.27336969e-03,   4.12498719e-03,   4.14226001e-04,
+         1.35377363e-03,   1.44112615e-03,   3.74401525e-03,
+         3.16589393e-03,   4.01358999e-03,   2.86634701e-03,
+         4.00692385e-03,   2.04230988e-03,   2.33447126e-03,
+         2.63441440e-03,   4.16974603e-03,   2.93438912e-03,
+         2.05997272e-03,   3.78538597e-03,   4.28625190e-03,
+         2.88148633e-03,   4.61353777e-03,   3.35036422e-03,
+         4.55506017e-03,   3.59731382e-03,   4.97807889e-03,
+         3.99632005e-03,   8.28129389e-04,   4.11523057e-03,
+         2.48460982e-03,   2.69684973e-03,   2.15287257e-03,
+         1.66921566e-03,   2.85906687e-03,   1.69012811e-03,
+         2.69121622e-03,   2.10245886e-03,   5.65812593e-06,
+         4.92272188e-03,   4.32056725e-03,   3.62549918e-03,
+         4.96568516e-03,   4.92736797e-03,   2.25505066e-03,
+         1.20561253e-04,   1.42628703e-03,   1.56423169e-03,
+         4.97532228e-03,   2.57840288e-03,   3.83431891e-03,
+         5.57269600e-04,   5.24092348e-04,   3.47578308e-03,
+         3.20709154e-03,   2.41621190e-03,   3.13621072e-03,
+         2.07212838e-04,   2.67810281e-03,   3.70891662e-03,
+         1.32380633e-03,   3.43035979e-03,   1.37763588e-03,
+         4.52562570e-03,   2.89850101e-03,   3.48404325e-03,
+         4.35651283e-03,   2.91583479e-03,   4.94757677e-03,
+         2.79033508e-03,   3.05236845e-03,   3.80604467e-03,
+         4.10983625e-03,   5.53497002e-04,   4.18411539e-03,
+         3.10098649e-03,   1.84411517e-03,   2.36472533e-03,
+         4.84143303e-03,   3.29269911e-03,   3.10671302e-03,
+         3.19145898e-03,   3.83094600e-03,   2.41745138e-03,
+         2.10038534e-03,   6.41554824e-04,   2.74683759e-03,
+         2.39174081e-03,   4.19517618e-03,   4.82274392e-03,
+         2.68454842e-03,   1.97348212e-03,   4.64492772e-03,
+         1.45067517e-03,   1.96933649e-03,   1.18645420e-03,
+         1.68672485e-03,   2.12968119e-03,   2.26562506e-03,
+         2.26935476e-03,   2.83769072e-04,   1.36651046e-03,
+         1.08309636e-03,   2.52481626e-03,   2.22830106e-03,
+         1.90472371e-03,   3.99139924e-03,   3.63801444e-03,
+         1.95776347e-03,   2.88265117e-04,   6.40668395e-04,
+         3.41648256e-03,   2.34593290e-03,   4.66085365e-03,
+         4.43206514e-03,   2.86475464e-03,   2.92191295e-03,
+         3.89572587e-03,   1.11536210e-03,   4.35370046e-03,
+         3.15060032e-03,   3.55576426e-03,   2.09763271e-03,
+         8.14391933e-04,   1.47451485e-03,   1.18942575e-03,
+         2.82801731e-03,   2.15575121e-04,   4.84691019e-03,
+         2.36269105e-03,   9.93966372e-04,   1.73312931e-03,
+         2.45944228e-03,   7.81719231e-04,   2.50903667e-03,
+         2.55778213e-03,   1.39713650e-03,   1.38411145e-03,
+         3.88458008e-03,   2.11881020e-03,   4.94283489e-03,
+         2.89000741e-03,   1.11916308e-03,   2.33700114e-03,
+         7.05597152e-04,   3.08593861e-03,   1.02604129e-03,
+         3.93441534e-03,   4.72800387e-03,   3.16549716e-03,
+         5.56336050e-04,   1.57353966e-03,   3.46804517e-03,
+         2.67837228e-03,   2.77953418e-03,   2.55982872e-03,
+         6.92783373e-04,   1.14847893e-03,   4.99712489e-03,
+         1.83703171e-04,   3.02463187e-03,   5.56273275e-04,
+         4.12978400e-03,   4.99916376e-03,   3.11242079e-04,
+         1.32567695e-03,   4.11337602e-03,   3.82173874e-03,
+         3.48565193e-03,   3.51873285e-03,   4.88974776e-03,
+         2.58903874e-03,   2.45499873e-03,   2.92241802e-03,
+         5.48975928e-04,   3.29245111e-03,   1.78205573e-03,
+         8.07226529e-04,   7.71200869e-04,   3.48837739e-03,
+         2.72869636e-03,   4.16924530e-03,   2.52517291e-03,
+         2.54807919e-03,   1.87940557e-03,   1.68425083e-03,
+         1.22662239e-03,   8.43290746e-04,   1.83566152e-03,
+         3.45604467e-03,   3.35472454e-03,   3.66483034e-03,
+         4.24232744e-03,   1.27733912e-03,   3.25076798e-03,
+         1.10066038e-03,   1.46726962e-03,   3.53990578e-03,
+         4.94762947e-03,   4.32009475e-03,   3.95201582e-03,
+         3.05197756e-03,   8.31050680e-04,   3.78667825e-03,
+         1.51840114e-03,   1.68151462e-03,   2.16257600e-04,
+         2.61097053e-03,   4.59192741e-04,   3.59976339e-04,
+         4.61621235e-03,   4.26495446e-04,   3.50250987e-03,
+         4.07850773e-03,   3.22125530e-03,   1.65974066e-03,
+         1.21297102e-03,   3.76874588e-03,   4.96197947e-03,
+         4.59433647e-04,   2.38298532e-04,   3.54205891e-03,
+         1.75073634e-03,   3.88044792e-03,   9.24963860e-04,
+         4.18594130e-03,   3.95194553e-03,   3.83594998e-04,
+         3.09194933e-03,   1.98052603e-03,   1.98373191e-03,
+         4.45362684e-03,   2.99060940e-03,   1.77164682e-03,
+         2.49408869e-04,   7.39724074e-04,   4.14232091e-03,
+         4.66684383e-03,   4.67849163e-03,   9.75877024e-05,
+         1.21144424e-03,   2.43054370e-03,   4.59010567e-05,
+         3.66095545e-03,   3.70527318e-03,   1.17884582e-03,
+         2.91967306e-03,   1.57386798e-03,   4.69704696e-03,
+         1.58997448e-03,   4.54742600e-03,   3.69636724e-03,
+         8.97702325e-04,   8.37133469e-04,   2.37733964e-03,
+         4.78620355e-03,   3.24265861e-03,   4.63694206e-03,
+         4.31778349e-03,   1.04309798e-03,   2.72558583e-03,
+         3.81655866e-03,   4.77359186e-03,   1.60280918e-03,
+         1.26359045e-03,   6.94873743e-04,   4.31734437e-03,
+         4.00517797e-03,   1.03584553e-03,   1.25336108e-03,
+         3.90377447e-04,   4.42093104e-03,   1.82400320e-03,
+         8.00883637e-04,   1.05227998e-03,   2.63988009e-03,
+         2.31031484e-03,   1.72702457e-03,   2.39107482e-03,
+         9.92483249e-05,   1.05031305e-03,   2.41062063e-03,
+         1.75872177e-04,   1.59788914e-03,   4.57904948e-03,
+         4.10070665e-04,   1.15554554e-03,   1.65992627e-03,
+         4.99686812e-03,   8.65367251e-04,   2.45097085e-03,
+         2.48215040e-03,   3.28349871e-03,   3.19637953e-04,
+         3.46255804e-03,   9.94724233e-04,   2.95617791e-03,
+         4.44805166e-03,   9.37207232e-04,   6.60230936e-04,
+         3.80971043e-03,   4.64399553e-03,   3.55397183e-03])>
+Input  to Hidden Excitatory 2 =  <synapses_1.w: array([  3.60810661e-03,   1.34817612e-03,   2.98984157e-03,
+         2.33293719e-03,   9.08783879e-04,   4.05448235e-03,
+         4.76064795e-03,   3.36209815e-03,   2.67177743e-03,
+         2.58339958e-03,   4.14771874e-03,   4.88282111e-03,
+         3.63963686e-03,   1.95400297e-03,   1.73306848e-03,
+         4.70946769e-03,   5.95793390e-04,   2.88249416e-03,
+         4.58807550e-03,   6.00123282e-04,   3.88412713e-03,
+         3.20619947e-03,   1.63294455e-03,   3.98165932e-03,
+         6.78524036e-04,   2.58688660e-03,   2.72485987e-03,
+         3.35350420e-03,   4.39378589e-03,   1.23985306e-03,
+         1.60035041e-03,   3.66861506e-03,   8.27756747e-04,
+         3.79633383e-03,   2.13211871e-03,   2.79232024e-03,
+         2.03862664e-03,   2.14534607e-03,   1.26408484e-03,
+         3.63130134e-04,   3.19118166e-03,   1.81844623e-04,
+         1.40665855e-03,   7.48255749e-04,   5.26223622e-05,
+         2.15722931e-03,   1.84958393e-03,   8.49914386e-04,
+         2.37039993e-03,   1.65323617e-03,   7.40514778e-04,
+         3.95888101e-03,   2.76990190e-03,   4.68116483e-03,
+         9.80876484e-04,   1.88201709e-03,   4.56748409e-03,
+         2.62275153e-03,   2.70793095e-03,   3.65255212e-03,
+         4.73102401e-03,   3.84172033e-03,   3.38657710e-03,
+         4.34984056e-04,   9.52053770e-04,   2.67238878e-03,
+         3.57073906e-03,   1.34983746e-03,   1.90043375e-03,
+         2.60046191e-03,   8.45747592e-04,   3.10166397e-03,
+         1.47429793e-03,   5.53550425e-04,   3.68429011e-03,
+         4.50672962e-03,   1.45382941e-04,   1.13881124e-03,
+         1.87683598e-03,   4.45809752e-03,   6.05211202e-04,
+         1.55266520e-03,   3.19455528e-03,   4.38279212e-03,
+         4.84680261e-03,   3.02189335e-03,   4.65981095e-03,
+         4.68972372e-03,   1.69739290e-03,   3.87214659e-03,
+         3.80578675e-03,   2.72694303e-03,   1.86715395e-03,
+         2.11687163e-03,   6.69839456e-05,   4.65170291e-03,
+         1.86611966e-03,   1.73917362e-03,   1.79374474e-03,
+         2.92252297e-03,   3.54406706e-03,   3.33085538e-03,
+         9.33973707e-04,   3.06070982e-03,   3.00622550e-03,
+         4.90712648e-03,   2.80592574e-03,   2.63202520e-03,
+         3.10109658e-03,   2.52376298e-03,   3.30453742e-03,
+         1.84965860e-03,   5.35899036e-04,   4.39702300e-03,
+         3.11715087e-04,   4.37200432e-03,   4.31884825e-04,
+         3.85772974e-03,   3.99539422e-03,   3.07531475e-03,
+         3.76419807e-03,   2.67691024e-03,   3.18059827e-03,
+         5.00000000e-03,   2.63911337e-03,   4.02612148e-04,
+         4.37202325e-03,   5.00000000e-03,   3.78838097e-03,
+         2.61458821e-03,   1.24568703e-03,   4.70147700e-03,
+         1.98590420e-03,   5.00000000e-03,   1.62793290e-03,
+         4.85628176e-03,   2.69404076e-03,   2.90363365e-03,
+         5.00000000e-03,   1.02785904e-03,   5.70277173e-04,
+         3.37598229e-03,   2.44649742e-03,   4.69817506e-03,
+         4.14205740e-03,   3.85555373e-03,   2.93057666e-03,
+         4.28265073e-04,   7.91224866e-04,   3.08263644e-03,
+         3.10397413e-03,   1.16908843e-03,   1.51541707e-03,
+         5.00000000e-03,   2.92364383e-03,   4.52013385e-03,
+         3.44995528e-03,   4.33611212e-04,   1.07926136e-03,
+         4.48930957e-04,   5.00000000e-03,   3.59871019e-04,
+         3.45268880e-04,   5.00000000e-03,   5.28959691e-04,
+         4.60965983e-03,   5.00000000e-03,   2.77704207e-03,
+         5.00000000e-03,   2.96875243e-03,   4.08790861e-03,
+         4.73121269e-03,   3.69907523e-03,   4.33210160e-03,
+         5.00000000e-03,   1.75093501e-03,   3.40726338e-03,
+         4.71114700e-03,   3.87863749e-04,   4.76893980e-03,
+         1.13244807e-03,   1.50397220e-03,   2.39458088e-03,
+         8.65491770e-04,   3.76161556e-04,   4.05034656e-03,
+         1.85914173e-03,   1.75418065e-03,   4.48113265e-03,
+         4.91175667e-03,   3.58471912e-03,   3.34222932e-03,
+         3.82845896e-03,   2.85078455e-03,   3.57284640e-03,
+         1.76056939e-03,   4.25661824e-03,   4.55274783e-03,
+         1.00771300e-03,   3.64027391e-03,   7.41044330e-04,
+         4.47928974e-04,   4.44411379e-03,   1.02574134e-03,
+         1.46299871e-03,   2.51614512e-03,   1.68185112e-03,
+         2.20331930e-03,   4.36718967e-03,   1.38988658e-04,
+         1.13223113e-03,   4.46783522e-03,   4.33687176e-03,
+         3.84868469e-03,   2.22935768e-04,   4.99899219e-03,
+         4.50185915e-03,   1.32497094e-03,   2.12953604e-03,
+         1.81794568e-03,   1.04940072e-03,   3.11925118e-03,
+         2.99937874e-04,   2.21516387e-03,   2.31589219e-03,
+         1.19067476e-04,   5.01722204e-04,   3.26443353e-03,
+         4.33534487e-03,   2.27686841e-03,   4.48835162e-03,
+         6.87313463e-06,   4.92738817e-03,   4.60370783e-03,
+         4.90085358e-04,   5.54942878e-04,   2.96969726e-03,
+         1.85278849e-03,   4.64540006e-03,   1.89399803e-03,
+         2.91571888e-03,   4.50655751e-03,   2.82218956e-04,
+         3.18087980e-03,   3.93979706e-03,   2.40234410e-03,
+         4.49437141e-03,   1.00412927e-03,   6.77917358e-04,
+         2.80992751e-03,   8.44494551e-04,   1.67292936e-03,
+         1.62925890e-03,   4.65644264e-03,   1.51149820e-03,
+         2.09706054e-03,   1.65439554e-03,   2.60759975e-03,
+         1.79720744e-03,   2.51089911e-03,   3.96000969e-03,
+         1.58404192e-03,   4.22594725e-03,   4.43546312e-03,
+         2.82036419e-03,   2.36275979e-03,   4.13459396e-03,
+         2.38702657e-03,   2.68203485e-03,   3.69819993e-04,
+         3.78988969e-03,   3.25108064e-04,   4.56414692e-03,
+         3.92223297e-03,   4.56897650e-03,   1.43961530e-03,
+         1.08825518e-03,   2.56696846e-03,   4.28275055e-03,
+         4.03729925e-03,   3.20187281e-03,   4.55236439e-03,
+         2.31765782e-03,   4.08161154e-03,   2.11334588e-03,
+         4.58753837e-03,   3.40579380e-03,   2.29162503e-03,
+         2.68238035e-03,   6.91491295e-04,   3.37371574e-03,
+         4.87334573e-03,   4.71830175e-04,   3.23143027e-03,
+         2.85661572e-03,   4.97410706e-03,   1.14208592e-03,
+         1.26508717e-03,   1.00707918e-03,   3.93404440e-04,
+         2.69072608e-03,   2.22085113e-03,   4.97329687e-03,
+         2.66318912e-03,   4.03058787e-03,   5.00000000e-03,
+         4.48225963e-03,   4.78658418e-03,   4.45172717e-03,
+         1.13258964e-03,   9.70641035e-04,   1.81332485e-03,
+         4.14654011e-03,   4.76469412e-03,   8.51050360e-04,
+         4.58074345e-03,   2.70698076e-03,   3.93872639e-03,
+         5.00000000e-03,   4.96142895e-03,   3.52300497e-03,
+         4.45420383e-03,   3.25276472e-04,   1.63678470e-03,
+         2.34288873e-03,   1.27633837e-03,   4.53167372e-03,
+         4.42447908e-03,   4.78713028e-03,   8.19843960e-04,
+         5.00000000e-03,   4.29424625e-03,   1.42959443e-03,
+         9.70941709e-04,   6.35571876e-04,   3.00981696e-03,
+         1.69602685e-03,   8.74880970e-04,   2.73712798e-03,
+         2.78372094e-03,   7.52289833e-04,   5.16220565e-04,
+         9.63076665e-04,   1.62366248e-03,   1.04818267e-03,
+         4.31904113e-03,   2.83252274e-03,   2.96816483e-03,
+         4.56035136e-03,   1.64077684e-03,   2.67154244e-03,
+         3.44500136e-03,   2.67535332e-03,   6.66128305e-04,
+         4.76866360e-03,   2.37124176e-03,   4.75327129e-03,
+         2.07331702e-03,   1.27966799e-03,   2.81954164e-03,
+         4.82210005e-03,   2.91492811e-03,   1.35032162e-03,
+         3.80880540e-03,   7.29267939e-04,   1.67414821e-04,
+         1.05308532e-03,   2.54194517e-03,   2.83988916e-03,
+         2.92106880e-03,   1.83927312e-03,   3.60311489e-03,
+         2.38585359e-03,   8.03598464e-04,   2.18403126e-03,
+         4.16294076e-03,   4.63093874e-03,   2.63321915e-04,
+         2.16117947e-03,   7.65036766e-04,   3.72884202e-03,
+         1.56619257e-03,   3.46965112e-03,   2.09448528e-03,
+         4.67588387e-03,   4.37141387e-03,   3.36168137e-03,
+         4.00885502e-03,   1.21347551e-03,   9.49462827e-04,
+         3.33017434e-04,   4.79218722e-03,   4.71759904e-03,
+         3.73024988e-04,   2.85958355e-03,   7.73280410e-04,
+         9.76398736e-04,   1.44716663e-03,   2.24166373e-03,
+         3.86182734e-03,   4.30891126e-03,   3.87223261e-03,
+         2.42691232e-03,   3.66215696e-03,   8.57714265e-05,
+         9.63809952e-04,   4.45012295e-03,   6.57457452e-07,
+         2.67145631e-03,   1.99377716e-03,   1.43083949e-03,
+         2.46434843e-03,   1.22803734e-03,   8.54784743e-04,
+         4.40902417e-03,   2.78065230e-04,   4.10914544e-03,
+         2.00250732e-03,   2.63789870e-03,   4.70432330e-03,
+         4.77791780e-03,   4.10829012e-03,   1.75890370e-03,
+         4.66142861e-04,   4.73182669e-03,   2.19183264e-03,
+         4.98390097e-04,   2.97476153e-03,   2.74026383e-03,
+         3.41263414e-03,   2.52026321e-03,   2.52519152e-03,
+         4.47070741e-03,   1.70268555e-03,   4.28858883e-03,
+         4.43783720e-03,   2.67698395e-03,   1.73646354e-04,
+         3.92352547e-03,   2.11534251e-03,   4.08506917e-03,
+         2.16347557e-03,   4.08859057e-03,   1.40302603e-03,
+         4.00882853e-04,   3.06194750e-03,   2.84247828e-03,
+         3.14861736e-04,   1.29790357e-03,   2.38409257e-04,
+         4.00475191e-04,   1.87618339e-03,   5.29345991e-05,
+         4.74678876e-03,   2.33917527e-03,   7.77116701e-04,
+         3.70884296e-03,   1.42395345e-03,   4.41646308e-03,
+         6.42900989e-05,   3.52582011e-03,   1.74325050e-03,
+         2.48057279e-03,   3.14446714e-03,   3.38729219e-03,
+         3.51750178e-03,   3.29621956e-03,   1.14989586e-03,
+         2.60633237e-03,   4.37027415e-03,   5.18754818e-04,
+         4.68006477e-03,   2.80668627e-03,   4.03895969e-03,
+         1.19907209e-03,   3.19119092e-04,   4.58968810e-03,
+         2.84851897e-04,   4.50879185e-03,   4.56811598e-03,
+         4.24521745e-03,   1.92619028e-03,   8.70801723e-04,
+         2.20560397e-03,   1.24668891e-03,   3.97615797e-03,
+         1.78866168e-03,   2.93412468e-03,   4.54648501e-03,
+         2.81602816e-03,   3.69971507e-03,   2.95830170e-04,
+         4.04857602e-03,   1.79811646e-03,   1.17083425e-03,
+         1.54796373e-03,   3.28479654e-03,   3.82154931e-04,
+         1.00234221e-04,   1.48040557e-03,   1.10622707e-03,
+         3.16327795e-03,   1.68785120e-03,   2.13927238e-04,
+         4.47615154e-03,   3.08072981e-03,   1.03563288e-03,
+         3.66924768e-03,   1.01145497e-03,   3.22617812e-03,
+         1.64731195e-03,   1.50508021e-03,   4.81937301e-03,
+         3.00215897e-03,   4.47657873e-03,   4.77513466e-03,
+         2.89033874e-03,   4.23805300e-03,   3.56758302e-03,
+         9.31743453e-04,   4.77085742e-03,   4.74280093e-03,
+         2.85638822e-03,   6.29661379e-04,   4.80602128e-03,
+         4.30982712e-03,   2.29577975e-03,   6.78012979e-04,
+         2.23815422e-03,   2.79322840e-03,   4.18855005e-03,
+         2.37893493e-03,   4.94867828e-03,   5.66251107e-04,
+         3.63710384e-03,   4.96913805e-03,   5.37195746e-04,
+         2.30263344e-03,   1.82171320e-03,   7.12523681e-04,
+         1.79761480e-03,   1.31062173e-03,   5.23484420e-05,
+         4.48905314e-03,   1.08644481e-03,   2.01236556e-03,
+         3.11018660e-03,   5.04739125e-04,   3.98016843e-03,
+         3.92758429e-03,   3.09040898e-03,   2.98482547e-03,
+         4.30652814e-03,   1.33834474e-03,   4.63944035e-03,
+         4.10305264e-03,   3.98539922e-03,   7.65442412e-04,
+         3.76518497e-03,   2.77561693e-03,   4.50634625e-03,
+         2.69720596e-03,   6.58557057e-04,   2.53023081e-03,
+         2.45428392e-03,   2.30252198e-03,   7.06135993e-04,
+         1.73089844e-03,   3.19306314e-03,   1.42405902e-03,
+         3.22394653e-03,   4.74700223e-03,   5.65379193e-04,
+         5.21594662e-04,   9.25843420e-04,   4.96559719e-03,
+         3.15859766e-03,   1.72233195e-03,   1.59542297e-03,
+         1.48923567e-03,   1.89733643e-03,   1.57628593e-03,
+         2.75951589e-03,   3.30300272e-03,   3.68314236e-03,
+         4.92306642e-03,   2.48029389e-03,   2.23307623e-03,
+         3.83867951e-03,   4.80902754e-03,   3.97510429e-03,
+         1.02046897e-03,   5.33605389e-05,   1.15498504e-03,
+         1.86260518e-03,   8.73542072e-04,   1.57154612e-03,
+         4.75094019e-03,   8.19141488e-05,   1.82247839e-03,
+         3.66292593e-03,   3.61468358e-03,   3.28073449e-03,
+         1.66381256e-03,   1.83960537e-03,   2.99642949e-03,
+         6.75727450e-04,   1.54353423e-03,   4.63294357e-03,
+         4.26041025e-03,   6.68859949e-04,   2.37906551e-03,
+         4.45528263e-03,   4.37245550e-03,   1.15326152e-03,
+         3.99484108e-03,   2.14502333e-03,   1.66710241e-03,
+         1.36804638e-03,   2.37219287e-03,   2.32465292e-03,
+         1.96955794e-03,   4.75347348e-03,   7.01193560e-04,
+         2.61552984e-03,   2.27978356e-04,   2.67810899e-03,
+         4.93567535e-03,   1.86888698e-03,   2.78463905e-03,
+         3.27829545e-03,   1.22416303e-03,   2.40640178e-03,
+         4.19691351e-03,   1.79518759e-03,   3.48942072e-03,
+         4.30982238e-03,   4.06680888e-03,   3.17478776e-03,
+         4.33382034e-03,   1.12729634e-03,   1.60469109e-03,
+         1.47659310e-03,   2.47181089e-03,   3.16367375e-03,
+         3.75490675e-03,   2.75070161e-03,   2.54601674e-03,
+         1.64769965e-03,   4.57542388e-03,   3.98593903e-03,
+         1.58121339e-04,   2.89846958e-03,   2.53599585e-03,
+         1.66779092e-03,   3.85451705e-03,   4.25151709e-04,
+         1.85751314e-03,   3.20503219e-03,   5.23016609e-04,
+         1.65283260e-03,   8.12048637e-05,   3.63610395e-03,
+         3.90702887e-03,   1.00228406e-03,   1.63781250e-03,
+         1.32218464e-03,   1.66322398e-03,   2.63497639e-03,
+         6.90489928e-06,   1.02825224e-03,   3.66704242e-03,
+         4.31007863e-04,   3.23473096e-03,   2.88931546e-03,
+         3.22702932e-03,   7.51265578e-04,   9.87792484e-04,
+         3.54773137e-04,   1.31942932e-03,   1.01721495e-03,
+         4.81071732e-03,   4.48316254e-03,   4.70065258e-03,
+         7.38708418e-04,   1.55798542e-03,   2.32372819e-03,
+         6.58590451e-04,   5.67149182e-04,   3.34857336e-03,
+         4.96789038e-03,   1.40716441e-03,   3.45393080e-03,
+         4.97793810e-03,   1.71345531e-03,   3.48099734e-03,
+         4.60254533e-03,   1.90799353e-03,   4.42671526e-03,
+         3.58973184e-03,   2.71039691e-03,   1.53532851e-03,
+         1.20240459e-03,   4.92229114e-03,   1.51556872e-03,
+         9.05865268e-04,   3.12788664e-03,   1.42183708e-03,
+         5.44643309e-04,   2.07651783e-03,   4.14449026e-03,
+         7.85245371e-05,   1.24524212e-03,   4.14436452e-03,
+         7.19181010e-04,   6.60525446e-04,   2.74763797e-03,
+         4.42867893e-03,   8.56334310e-04,   3.56204620e-03,
+         3.33481895e-03,   3.42871403e-03,   2.42675457e-03,
+         1.10646471e-03,   2.13582701e-03,   2.03020507e-03,
+         5.03115310e-04,   3.75933347e-03,   4.17080597e-03,
+         7.69066712e-04,   2.94994627e-03,   3.41386443e-03,
+         6.81594424e-04,   3.37799721e-03,   6.32746047e-04,
+         2.10824016e-03,   4.31295544e-04,   1.55435205e-03,
+         1.25077418e-03,   1.83879643e-03,   2.03370468e-03,
+         6.80880005e-04,   3.43583525e-03,   5.16331197e-04,
+         2.14300351e-03,   3.58378354e-04,   4.45905692e-03,
+         2.01210373e-03,   4.16293947e-03,   4.66356873e-03,
+         3.02633454e-03,   3.64239115e-03,   2.04448797e-03,
+         2.85067361e-03,   4.71207026e-03,   3.17236195e-03,
+         3.38692651e-04,   1.66000179e-03,   4.48260794e-03,
+         4.00863033e-03,   4.31219704e-03,   3.55079488e-04,
+         5.00000000e-03,   3.72875442e-04,   2.11710138e-03,
+         4.87069776e-03,   1.52909838e-03,   1.52552613e-03,
+         2.81473487e-03,   6.63353501e-04,   3.89353736e-04,
+         4.57313538e-03,   3.71459702e-03,   1.25953617e-03,
+         1.88583937e-03,   3.36798886e-03,   1.02910831e-03,
+         3.13437958e-03,   2.97176151e-03,   1.03811688e-03,
+         1.08746335e-03,   1.30875543e-03,   2.77614002e-03,
+         3.75755200e-03,   3.29859084e-03,   5.00000000e-03,
+         1.74289013e-03,   3.99229284e-03,   3.36073643e-03,
+         3.40719474e-03,   1.43516901e-03,   3.27763968e-03,
+         5.00000000e-03,   4.67214598e-03,   4.72274123e-03,
+         1.00633563e-03,   2.73116437e-04,   9.88880845e-04,
+         9.27329974e-04,   3.09005090e-03,   2.18675011e-03,
+         4.64638741e-03,   3.86167977e-03,   3.24210572e-03,
+         4.83595427e-03,   4.00392659e-03,   3.58622604e-03,
+         3.83303045e-03,   2.37535005e-03,   1.50910223e-03,
+         1.02324160e-03,   1.54600750e-03,   2.45007529e-03,
+         8.98404694e-04,   1.48298109e-03,   1.16034424e-03,
+         3.92304435e-03,   2.87877673e-03,   4.28909153e-04,
+         3.91321990e-03,   5.00000000e-03,   4.09086682e-03,
+         2.03922455e-03,   1.60149469e-03,   9.23569993e-04,
+         4.71234364e-03,   6.12447822e-04,   4.06048807e-04,
+         4.67059303e-03,   4.92238792e-03,   3.48964485e-03,
+         1.63961146e-03,   3.37460176e-03,   2.22193954e-03,
+         1.62312038e-04,   2.74150296e-03,   3.43941014e-03,
+         3.39623303e-03,   4.65737362e-03,   1.79025279e-03,
+         4.78461933e-03,   2.74510923e-03,   4.50982278e-03,
+         1.53926102e-03,   2.72192064e-03,   3.83027713e-03,
+         2.47179441e-03,   4.42275458e-03,   3.33485253e-03,
+         3.66887692e-03,   4.05445681e-03,   1.27679329e-03,
+         2.63167338e-03,   4.10731335e-03,   2.75631248e-03,
+         1.54329260e-03,   2.03504435e-03,   3.24713424e-03,
+         9.65051146e-04,   4.38209087e-04,   3.04408381e-03,
+         9.48851300e-04,   4.81210357e-03,   4.80018942e-03,
+         4.57730215e-03,   3.63553422e-03,   7.06040821e-04,
+         4.37017379e-03,   4.29155655e-03,   4.10158381e-03,
+         4.83613899e-04,   5.64412832e-04,   1.18028601e-03,
+         3.91687009e-03,   2.99461054e-03,   3.95691208e-03,
+         4.85182495e-04,   4.19929875e-03,   4.88103836e-03,
+         4.99292706e-03,   2.41439236e-03,   9.82313898e-04,
+         1.42258907e-03,   4.80485908e-03,   3.41640510e-03,
+         4.24695186e-03,   4.49590719e-03,   2.75946481e-03,
+         1.54566107e-04,   2.32456335e-03,   3.92640524e-03,
+         1.29414356e-03,   5.46246280e-04,   4.17073509e-03,
+         7.63302904e-04,   1.28634835e-05,   4.53778669e-03,
+         4.75139613e-03,   3.26528562e-03,   4.85623514e-03])>
+Hidden to Output Layer        =  <synapses_3.w: array([  2.19466249e-03,   0.00000000e+00,   4.92397279e-04,
+         3.34697330e-03,   2.99118702e-03,   3.45485842e-03,
+         3.50725935e-03,   3.62358067e-03,   1.59025729e-03,
+         1.54850882e-03,   1.85577004e-03,   1.54594167e-05,
+         2.73219206e-03,   2.19829227e-03,   1.60749690e-03,
+         2.29209536e-03,   3.81599309e-03,   1.44567764e-03,
+         2.42435015e-04,   2.46218063e-03,   3.95280137e-03,
+         1.43096203e-03,   3.84062877e-04,   0.00000000e+00,
+         3.07563921e-03,   2.16349021e-03,   1.29916325e-03,
+         0.00000000e+00,   3.96120629e-03,   1.43958433e-04,
+         3.09913090e-03,   1.44543397e-03,   0.00000000e+00,
+         3.96848054e-03,   3.57795539e-03,   4.42096863e-05,
+         3.14032036e-03,   1.57300065e-03,   8.57200922e-04,
+         2.17480076e-03,   2.76572122e-03,   3.83253291e-03,
+         3.11740046e-03,   3.61815707e-03,   2.89283396e-03,
+         3.88237516e-03,   1.08735126e-03,   2.14262843e-03,
+         0.00000000e+00,   2.52523792e-03,   2.45054248e-03,
+         0.00000000e+00,   2.76815612e-03,   8.03574978e-04,
+         0.00000000e+00,   2.82837968e-03,   0.00000000e+00,
+         0.00000000e+00,   6.06972033e-04,   0.00000000e+00])>
+Output Spike Count = <spikemonitor_1.count: array([0])>
+************************** TRAINING DONE, NOW TESTING *******************************************************
+Iteration  0 , Testing 0,0
+Output Spike Count = <spikemonitor.count: array([0])>
+Iteration  0 , Testing 1,0
+Output Spike Count = <spikemonitor.count: array([7])>
+Iteration  0 , Testing 0,1
+Output Spike Count = <spikemonitor.count: array([13])>
+Iteration  0 , Testing 1,1
+Output Spike Count = <spikemonitor.count: array([33])>
+Iteration  1 , Testing 0,0
+Output Spike Count = <spikemonitor_1.count: array([0])>
+Iteration  1 , Testing 1,0
+Output Spike Count = <spikemonitor_1.count: array([6])>
+Iteration  1 , Testing 0,1
+Output Spike Count = <spikemonitor_1.count: array([12])>
+Iteration  1 , Testing 1,1
+Output Spike Count = <spikemonitor_1.count: array([36])>
+Iteration  2 , Testing 0,0
+Output Spike Count = <spikemonitor.count: array([0])>
+Iteration  2 , Testing 1,0
+Output Spike Count = <spikemonitor.count: array([4])>
+Iteration  2 , Testing 0,1
+Output Spike Count = <spikemonitor.count: array([10])>
+Iteration  2 , Testing 1,1
+Output Spike Count = <spikemonitor.count: array([32])>
+Iteration  3 , Testing 0,0
+Output Spike Count = <spikemonitor_1.count: array([0])>
+Iteration  3 , Testing 1,0
+Output Spike Count = <spikemonitor_1.count: array([2])>
+Iteration  3 , Testing 0,1
+Output Spike Count = <spikemonitor_1.count: array([10])>
+Iteration  3 , Testing 1,1
+Output Spike Count = <spikemonitor_1.count: array([25])>
+Iteration  4 , Testing 0,0
+Output Spike Count = <spikemonitor.count: array([0])>
+Iteration  4 , Testing 1,0
+Output Spike Count = <spikemonitor.count: array([1])>
+Iteration  4 , Testing 0,1
+Output Spike Count = <spikemonitor.count: array([7])>
+Iteration  4 , Testing 1,1
+Output Spike Count = <spikemonitor.count: array([31])>
+Iteration  5 , Testing 0,0
+Output Spike Count = <spikemonitor_1.count: array([0])>
+Iteration  5 , Testing 1,0
+Output Spike Count = <spikemonitor_1.count: array([8])>
+Iteration  5 , Testing 0,1
+Output Spike Count = <spikemonitor_1.count: array([13])>
+Iteration  5 , Testing 1,1
+Output Spike Count = <spikemonitor_1.count: array([31])>
+Iteration  6 , Testing 0,0
+Output Spike Count = <spikemonitor.count: array([0])>
+Iteration  6 , Testing 1,0
+Output Spike Count = <spikemonitor.count: array([9])>
+Iteration  6 , Testing 0,1
+Output Spike Count = <spikemonitor.count: array([13])>
+Iteration  6 , Testing 1,1
+Output Spike Count = <spikemonitor.count: array([35])>
+Iteration  7 , Testing 0,0
+Output Spike Count = <spikemonitor_1.count: array([0])>
+Iteration  7 , Testing 1,0
+Output Spike Count = <spikemonitor_1.count: array([12])>
+Iteration  7 , Testing 0,1
+Output Spike Count = <spikemonitor_1.count: array([17])>
+Iteration  7 , Testing 1,1
+Output Spike Count = <spikemonitor_1.count: array([36])>
+Iteration  8 , Testing 0,0
+Output Spike Count = <spikemonitor.count: array([0])>
+Iteration  8 , Testing 1,0
+Output Spike Count = <spikemonitor.count: array([10])>
+Iteration  8 , Testing 0,1
+Output Spike Count = <spikemonitor.count: array([18])>
+Iteration  8 , Testing 1,1
+Output Spike Count = <spikemonitor.count: array([26])>
+Iteration  9 , Testing 0,0
+Output Spike Count = <spikemonitor_1.count: array([0])>
+Iteration  9 , Testing 1,0
+Output Spike Count = <spikemonitor_1.count: array([9])>
+Iteration  9 , Testing 0,1
+Output Spike Count = <spikemonitor_1.count: array([12])>
+Iteration  9 , Testing 1,1
+Output Spike Count = <spikemonitor_1.count: array([32])>

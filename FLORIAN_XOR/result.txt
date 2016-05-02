@@ -1,0 +1,909 @@
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  286 , Training 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  287 , Training 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  287 , Training 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  287 , Training 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  287 , Training 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  288 , Training 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  288 , Training 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  288 , Training 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  288 , Training 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  289 , Training 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  289 , Training 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  289 , Training 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  289 , Training 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  290 , Training 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  290 , Training 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  290 , Training 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  290 , Training 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  291 , Training 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  291 , Training 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  291 , Training 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  291 , Training 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  292 , Training 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  292 , Training 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  292 , Training 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  292 , Training 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  293 , Training 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  293 , Training 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  293 , Training 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  293 , Training 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  294 , Training 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  294 , Training 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  294 , Training 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  294 , Training 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  295 , Training 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  295 , Training 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  295 , Training 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  295 , Training 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  296 , Training 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  296 , Training 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  296 , Training 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  296 , Training 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  297 , Training 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  297 , Training 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  297 , Training 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  297 , Training 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  298 , Training 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  298 , Training 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  298 , Training 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  298 , Training 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  299 , Training 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Iteration  299 , Training 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  299 , Training 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Iteration  299 , Training 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Printing Learned Coefficients ..
+Input  to Hidden Inhibitory   =  <synapses_2.w: array([ 0.00027996,  0.02004158,  0.00027996, ...,  0.00152324,
+        0.02964368,  0.04569917])>
+Input  to Hidden Excitatory 1 =  <synapses.w: array([ 0.04962005,  0.04970158,  0.04959918,  0.04959336,  0.04970158,
+        0.04976718,  0.04970158,  0.04970158,  0.04959336,  0.04965106,
+        0.04942301,  0.04970158,  0.04960149,  0.04970158,  0.04970158,
+        0.04954247,  0.04965106,  0.04968881,  0.0494551 ,  0.04970158,
+        0.04970158,  0.04970158,  0.04960131,  0.04960131,  0.04968079,
+        0.04960131,  0.04970158,  0.04950597,  0.04959336,  0.04970158,
+        0.04959176,  0.04954829,  0.04954829,  0.04970158,  0.04954829,
+        0.0495968 ,  0.04970158,  0.04954247,  0.04970158,  0.04970158,
+        0.04970158,  0.04954247,  0.04960714,  0.04950878,  0.04960131,
+        0.04969601,  0.04960131,  0.04970158,  0.04954247,  0.04970158,
+        0.04959918,  0.04967767,  0.04970158,  0.04960131,  0.04942556,
+        0.04970158,  0.04954247,  0.04945577,  0.04956878,  0.04959336,
+        0.04979367,  0.04977024,  0.04977024,  0.04977024,  0.04977024,
+        0.04955252,  0.04977024,  0.04977024,  0.04977024,  0.04977024,
+        0.04977024,  0.04977024,  0.04977024,  0.04977024,  0.04977024,
+        0.04977024,  0.04977024,  0.04977024,  0.04977024,  0.04977024,
+        0.04977024,  0.04977024,  0.04977024,  0.04977024,  0.04977024,
+        0.04977024,  0.04977024,  0.04977024,  0.04977024,  0.04977024,
+        0.04977024,  0.04977024,  0.04977024,  0.04977024,  0.04977024,
+        0.04977024,  0.04977024,  0.04977024,  0.04977024,  0.04977024,
+        0.04977024,  0.04977024,  0.04977024,  0.04977024,  0.04977024,
+        0.04977024,  0.04977024,  0.04977024,  0.04977024,  0.04977024,
+        0.04977024,  0.04977024,  0.04977024,  0.04977024,  0.04977024,
+        0.04977024,  0.04977024,  0.04977024,  0.04978159,  0.04977024,
+        0.04918366,  0.04918366,  0.04918366,  0.04918366,  0.04918366,
+        0.04933341,  0.04918366,  0.04918366,  0.04918366,  0.04918366,
+        0.04918366,  0.04918366,  0.04918366,  0.04918366,  0.04918366,
+        0.04918366,  0.04918366,  0.04918366,  0.04918366,  0.04918366,
+        0.04918366,  0.04918366,  0.04918366,  0.04918366,  0.04918366,
+        0.04918366,  0.04918366,  0.04918366,  0.04918366,  0.04918366,
+        0.04918366,  0.04918366,  0.04918366,  0.04918366,  0.04918366,
+        0.04918366,  0.04918366,  0.04918366,  0.04918366,  0.04918366,
+        0.04918366,  0.04918366,  0.04918366,  0.04918366,  0.04918366,
+        0.04918366,  0.04918366,  0.04918366,  0.04918366,  0.04918366,
+        0.04918366,  0.04918366,  0.04918366,  0.04918366,  0.04918366,
+        0.04918366,  0.04918366,  0.04918366,  0.04922683,  0.04918366,
+        0.04944303,  0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,
+        0.04920794,  0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,
+        0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,
+        0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,
+        0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,
+        0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,
+        0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,
+        0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,
+        0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,
+        0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,
+        0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,  0.0493981 ,
+        0.0493981 ,  0.0493981 ,  0.0493981 ,  0.04956938,  0.0493981 ,
+        0.04987121,  0.04987121,  0.04987121,  0.04987121,  0.04987121,
+        0.04985302,  0.04987121,  0.04987121,  0.04987121,  0.04987121,
+        0.04987121,  0.04987121,  0.04987121,  0.04987121,  0.04987121,
+        0.04987121,  0.04987121,  0.04987121,  0.04987121,  0.04987121,
+        0.04987121,  0.04987121,  0.04987121,  0.04987121,  0.04987121,
+        0.04987121,  0.04987121,  0.04987121,  0.04987121,  0.04987121,
+        0.04987121,  0.04987121,  0.04987121,  0.04987121,  0.04987121,
+        0.04987121,  0.04987121,  0.04987121,  0.04987121,  0.04987121,
+        0.04987121,  0.04987121,  0.04987121,  0.04987121,  0.04987121,
+        0.04987121,  0.04987121,  0.04987121,  0.04987121,  0.04987121,
+        0.04987121,  0.04987121,  0.04987121,  0.04987121,  0.04987121,
+        0.04987121,  0.04987121,  0.04987121,  0.04997218,  0.04987121,
+        0.04987152,  0.04976382,  0.04976382,  0.04976382,  0.04976382,
+        0.04907046,  0.04976382,  0.04976382,  0.04976382,  0.04976382,
+        0.04976382,  0.04976382,  0.04976382,  0.04976382,  0.04976382,
+        0.04976382,  0.04976382,  0.04976382,  0.04976382,  0.04976382,
+        0.04976382,  0.04976382,  0.04976382,  0.04976382,  0.04976382,
+        0.04976382,  0.04976382,  0.04976382,  0.04976382,  0.04976382,
+        0.04976382,  0.04976382,  0.04976382,  0.04976382,  0.04976382,
+        0.04976382,  0.04976382,  0.04976382,  0.04967316,  0.04976382,
+        0.04976382,  0.04976382,  0.04976382,  0.04976382,  0.04976382,
+        0.04976382,  0.04976382,  0.04976382,  0.04976382,  0.04976382,
+        0.04976382,  0.04976382,  0.04976382,  0.04976382,  0.04976382,
+        0.04976382,  0.04976382,  0.04976382,  0.04970559,  0.04976382,
+        0.04928695,  0.04928695,  0.04928695,  0.04928695,  0.04928695,
+        0.04929721,  0.04928695,  0.04928695,  0.04928695,  0.04928695,
+        0.04928695,  0.04928695,  0.04928695,  0.04928695,  0.04928695,
+        0.04928695,  0.04906381,  0.04928695,  0.04928695,  0.04928695,
+        0.04928695,  0.04928695,  0.04928695,  0.04928695,  0.04928695,
+        0.04928695,  0.04928695,  0.04928695,  0.04928695,  0.04928695,
+        0.04928695,  0.04928695,  0.04928695,  0.04928695,  0.04928695,
+        0.04928695,  0.04928695,  0.04928695,  0.04928695,  0.04928695,
+        0.04928695,  0.04928695,  0.04928695,  0.04928695,  0.04928695,
+        0.04928695,  0.04928695,  0.04928695,  0.04928695,  0.04928695,
+        0.04928695,  0.04928695,  0.04928695,  0.04928695,  0.04928695,
+        0.04928695,  0.04928695,  0.04928695,  0.04937125,  0.04928695,
+        0.04974543,  0.04974543,  0.04974543,  0.04974543,  0.04954305,
+        0.04959911,  0.04974543,  0.04974543,  0.04974543,  0.04959185,
+        0.04959804,  0.04974543,  0.04974543,  0.04974543,  0.04974543,
+        0.04974543,  0.04959185,  0.04974543,  0.04949551,  0.04974543,
+        0.04974543,  0.04974543,  0.04974543,  0.04974543,  0.04959804,
+        0.04974543,  0.04974543,  0.04949551,  0.04974543,  0.04974543,
+        0.04953729,  0.04974543,  0.04974543,  0.04974543,  0.04974543,
+        0.04954305,  0.04974543,  0.04974543,  0.04974543,  0.04974543,
+        0.04974543,  0.04974543,  0.04974543,  0.0494896 ,  0.04974543,
+        0.04974543,  0.04974543,  0.0494896 ,  0.04974543,  0.04974543,
+        0.04974543,  0.04974543,  0.04954305,  0.04974543,  0.04959185,
+        0.04974543,  0.04974543,  0.04974543,  0.04938025,  0.04974543,
+        0.04939408,  0.04939408,  0.04939408,  0.04939408,  0.04939408,
+        0.04959839,  0.04939408,  0.04939408,  0.04939408,  0.04939408,
+        0.04939408,  0.04939408,  0.04939408,  0.04939408,  0.04939408,
+        0.04939408,  0.04939408,  0.04939408,  0.04939408,  0.04939408,
+        0.04939408,  0.04939408,  0.04939408,  0.04939408,  0.04939408,
+        0.04939408,  0.04939408,  0.04939408,  0.04939408,  0.04939408,
+        0.04939408,  0.04939408,  0.04939408,  0.04939408,  0.04939408,
+        0.04939408,  0.04939408,  0.04939408,  0.04939408,  0.04939408,
+        0.04939408,  0.04939408,  0.04939408,  0.04939408,  0.04939408,
+        0.04939408,  0.04939408,  0.04939408,  0.04939408,  0.04939408,
+        0.04939408,  0.04939408,  0.04939408,  0.04939408,  0.04937416,
+        0.04939408,  0.04939408,  0.04939408,  0.04953201,  0.04939408,
+        0.04967841,  0.04967841,  0.04967841,  0.04967841,  0.04967841,
+        0.04983913,  0.04967841,  0.04967841,  0.04967841,  0.04967841,
+        0.04967841,  0.04967841,  0.04967841,  0.04967841,  0.04967841,
+        0.04967841,  0.04967841,  0.04967841,  0.04967841,  0.04967841,
+        0.04967841,  0.04967841,  0.04967841,  0.04967841,  0.04967841,
+        0.04967841,  0.04967841,  0.04967841,  0.04967841,  0.04967841,
+        0.04967841,  0.04967841,  0.04967841,  0.04967841,  0.04967841,
+        0.04967841,  0.04967841,  0.04967841,  0.04967841,  0.04967841,
+        0.04967841,  0.04967841,  0.04967841,  0.04967841,  0.04967841,
+        0.04967841,  0.04967841,  0.04967841,  0.04967841,  0.04967841,
+        0.04967841,  0.04967841,  0.04967841,  0.04967841,  0.04967841,
+        0.04967841,  0.04967841,  0.04967841,  0.04975881,  0.04967841,
+        0.04944561,  0.04944561,  0.04944561,  0.04944561,  0.04944561,
+        0.0494389 ,  0.04944561,  0.04944561,  0.04944561,  0.04944561,
+        0.04944561,  0.04944561,  0.04944561,  0.04944561,  0.04944561,
+        0.04944561,  0.04944561,  0.04944561,  0.04944561,  0.04944561,
+        0.04944561,  0.04944561,  0.04944561,  0.04944561,  0.04944561,
+        0.04944561,  0.04944561,  0.04944561,  0.04944561,  0.04944561,
+        0.04944561,  0.04944561,  0.04944561,  0.04944561,  0.04944561,
+        0.04944561,  0.04944561,  0.04944561,  0.04944561,  0.04944561,
+        0.04944561,  0.04944561,  0.04944561,  0.04944561,  0.04944561,
+        0.04944561,  0.04944561,  0.04944561,  0.04944561,  0.04944561,
+        0.04944561,  0.04944561,  0.04944561,  0.04944561,  0.04944561,
+        0.04944561,  0.04944561,  0.04944561,  0.04938697,  0.04944561,
+        0.05      ,  0.05      ,  0.05      ,  0.05      ,  0.05      ,
+        0.04980705,  0.05      ,  0.05      ,  0.05      ,  0.05      ,
+        0.05      ,  0.05      ,  0.05      ,  0.05      ,  0.05      ,
+        0.05      ,  0.05      ,  0.05      ,  0.05      ,  0.05      ,
+        0.05      ,  0.05      ,  0.05      ,  0.05      ,  0.05      ,
+        0.05      ,  0.05      ,  0.05      ,  0.05      ,  0.05      ,
+        0.05      ,  0.05      ,  0.05      ,  0.05      ,  0.05      ,
+        0.05      ,  0.05      ,  0.05      ,  0.05      ,  0.05      ,
+        0.05      ,  0.05      ,  0.05      ,  0.05      ,  0.05      ,
+        0.05      ,  0.05      ,  0.05      ,  0.05      ,  0.05      ,
+        0.05      ,  0.05      ,  0.05      ,  0.05      ,  0.05      ,
+        0.05      ,  0.05      ,  0.05      ,  0.05      ,  0.05      ,
+        0.04950746,  0.04950746,  0.04950746,  0.04950746,  0.04950746,
+        0.04958444,  0.04950746,  0.04950746,  0.04950746,  0.04950746,
+        0.04950746,  0.04950746,  0.04950746,  0.04950746,  0.04950746,
+        0.04950746,  0.04950746,  0.04950746,  0.04950746,  0.04950746,
+        0.04950746,  0.04950746,  0.04950746,  0.04950746,  0.04950746,
+        0.04950746,  0.04950746,  0.04950746,  0.04950746,  0.04950746,
+        0.04942303,  0.04950746,  0.04950746,  0.04950746,  0.04950746,
+        0.04942642,  0.04950746,  0.04950746,  0.04950746,  0.04950746,
+        0.04950746,  0.04950746,  0.04950746,  0.04950746,  0.04950746,
+        0.04950746,  0.04950746,  0.04950746,  0.04950746,  0.04950746,
+        0.04950746,  0.04950746,  0.04950746,  0.04950746,  0.04950746,
+        0.04950746,  0.04950746,  0.04950746,  0.0495426 ,  0.04950746,
+        0.04918494,  0.04904307,  0.04883816,  0.04886889,  0.04906666,
+        0.04947396,  0.04908967,  0.04908967,  0.04869335,  0.04883929,
+        0.04854078,  0.04908967,  0.04832123,  0.04908967,  0.04908967,
+        0.04900235,  0.04908967,  0.04908967,  0.04840976,  0.048901  ,
+        0.04908967,  0.04908967,  0.04888049,  0.04887488,  0.04908967,
+        0.04888049,  0.04885463,  0.04847338,  0.04852131,  0.04908967,
+        0.04843567,  0.04908967,  0.04908967,  0.04908967,  0.04870222,
+        0.04887965,  0.04908967,  0.04844241,  0.04908967,  0.04904019,
+        0.04908967,  0.04908967,  0.04901968,  0.04776526,  0.04888049,
+        0.04908967,  0.04869935,  0.04877798,  0.04899674,  0.04883074,
+        0.04883816,  0.04834498,  0.04908967,  0.04869935,  0.04801775,
+        0.04888471,  0.04849643,  0.04908967,  0.04941811,  0.0488745 ,
+        0.04962827,  0.04986282,  0.04986282,  0.04986282,  0.04986282,
+        0.0499977 ,  0.04986282,  0.04986282,  0.04986282,  0.04986282,
+        0.04986282,  0.04986282,  0.04986282,  0.04986282,  0.04986282,
+        0.04986282,  0.04986282,  0.04986282,  0.04986282,  0.04986282,
+        0.04986282,  0.04986282,  0.04986282,  0.04986282,  0.04986282,
+        0.04986282,  0.04986282,  0.04986282,  0.04986282,  0.04986282,
+        0.04986282,  0.04986282,  0.04986282,  0.04986282,  0.04986282,
+        0.04986282,  0.04986282,  0.04986282,  0.04986282,  0.04986282,
+        0.04986282,  0.04986282,  0.04986282,  0.04986282,  0.04986282,
+        0.04986282,  0.04986282,  0.04986282,  0.04986282,  0.04986282,
+        0.04986282,  0.04986282,  0.04986282,  0.04986282,  0.04986282,
+        0.04986282,  0.04986282,  0.04986282,  0.04996161,  0.04986282])>
+Input  to Hidden Excitatory 2 =  <synapses_1.w: array([  2.13183744e-02,   1.09972514e-03,   2.56910484e-02,
+         8.32159176e-03,   7.48192051e-04,   1.14581325e-03,
+         3.69296822e-03,   3.37347257e-02,   1.00791611e-03,
+         7.34073524e-03,   1.03480772e-03,   2.37032521e-02,
+         9.93120475e-04,   5.32800739e-03,   1.71102703e-02,
+         2.38810652e-02,   6.66640579e-04,   1.11577998e-03,
+         1.00509500e-03,   2.45852648e-03,   1.93015236e-02,
+         1.54170060e-02,   1.00791611e-03,   5.52432206e-03,
+         1.08324678e-03,   1.00791611e-03,   2.50701210e-02,
+         8.00733697e-03,   1.34485690e-03,   2.54088819e-02,
+         2.19373277e-03,   2.54084964e-02,   3.33087484e-02,
+         1.33795169e-02,   6.66413717e-03,   1.16269949e-03,
+         2.86619058e-02,   4.52189692e-03,   7.79133202e-04,
+         1.69174744e-02,   7.89032075e-03,   2.38093534e-02,
+         1.08377921e-03,   1.60370882e-03,   1.00791611e-03,
+         3.37773801e-02,   9.17047648e-03,   1.12403928e-02,
+         2.26744314e-02,   1.06898357e-03,   1.66487277e-02,
+         8.75528710e-04,   3.00664396e-03,   1.69533102e-02,
+         6.66640579e-04,   2.63456000e-02,   2.12133479e-03,
+         1.12297754e-02,   2.03580079e-03,   2.95049078e-02,
+         2.03551502e-02,   1.21752594e-02,   3.17607931e-03,
+         2.14263517e-02,   1.21319595e-03,   1.67122547e-02,
+         2.35746940e-02,   4.57086722e-03,   9.27879910e-04,
+         9.54059335e-03,   9.92116735e-04,   5.72170705e-03,
+         2.18529222e-02,   4.88080287e-04,   1.30798868e-02,
+         1.26919252e-03,   2.31984893e-02,   1.31649914e-02,
+         8.98866358e-04,   2.13104381e-02,   3.25013620e-03,
+         8.13154999e-04,   4.86622170e-03,   2.53472378e-02,
+         1.90546143e-03,   3.28677085e-03,   2.76797080e-03,
+         1.47433807e-03,   1.53658904e-03,   2.43279690e-03,
+         2.46679054e-02,   5.08163047e-03,   2.39097956e-03,
+         3.57957417e-03,   2.42856104e-03,   1.88555746e-03,
+         2.56730530e-02,   3.02326061e-02,   4.88080287e-04,
+         1.30508831e-03,   1.76455370e-03,   2.70509644e-02,
+         5.99179360e-04,   2.68757556e-02,   2.71961161e-02,
+         1.41997676e-03,   3.16960515e-03,   1.81686073e-02,
+         1.70923883e-02,   1.82461889e-03,   2.09703287e-03,
+         1.15970119e-03,   2.03630204e-02,   3.27522001e-03,
+         1.88476905e-02,   4.05583851e-03,   3.30666325e-04,
+         4.49092152e-04,   2.62258419e-03,   6.82277459e-04,
+         8.59337362e-04,   2.45812511e-03,   1.74717102e-03,
+         8.35918648e-04,   2.01558047e-02,   2.04258555e-02,
+         2.07436949e-03,   3.14107725e-03,   1.29776641e-02,
+         8.85118140e-03,   2.39698301e-02,   2.35371565e-03,
+         1.03012329e-03,   2.49155763e-03,   8.34660905e-03,
+         2.80845819e-03,   9.09699177e-04,   2.73970647e-02,
+         1.43155119e-02,   1.56056312e-02,   1.93964377e-02,
+         1.99992316e-02,   1.24863405e-03,   1.31960566e-02,
+         1.32490870e-02,   1.91320603e-03,   1.37063213e-02,
+         8.11890870e-04,   1.64823584e-02,   2.84412086e-03,
+         1.35374836e-02,   1.02605588e-02,   1.88633407e-02,
+         1.97475618e-03,   2.55812446e-02,   7.54468379e-04,
+         1.41997582e-02,   2.09027394e-02,   8.31471201e-03,
+         1.02080094e-02,   3.24856960e-02,   1.47578169e-03,
+         1.09010994e-03,   7.54468379e-04,   2.11676589e-03,
+         1.71677246e-02,   2.15879257e-03,   1.26617511e-03,
+         7.54468379e-04,   2.09357584e-03,   7.99025807e-03,
+         1.35869602e-02,   7.81707445e-03,   2.38046395e-02,
+         9.15301864e-03,   3.73600192e-03,   2.76530108e-03,
+         5.85911174e-03,   4.48416714e-04,   1.77583097e-03,
+         1.49179777e-03,   8.02726454e-03,   1.08063442e-02,
+         1.49179777e-03,   1.59481806e-03,   1.48485853e-02,
+         5.51246961e-03,   1.49179777e-03,   1.92140372e-02,
+         1.49853122e-03,   1.10008765e-02,   2.27960222e-02,
+         1.04327160e-02,   1.49179777e-03,   1.49179777e-03,
+         8.64564197e-03,   1.24139141e-02,   1.49179777e-03,
+         2.46569684e-03,   1.66938214e-02,   1.29351173e-02,
+         1.54421717e-02,   1.01126495e-02,   1.51451140e-02,
+         7.22596074e-03,   1.49179777e-03,   1.49179777e-03,
+         1.54775290e-03,   9.34036261e-03,   1.93537015e-02,
+         1.49179777e-03,   1.49179777e-03,   1.49179777e-03,
+         5.18030631e-03,   1.49179777e-03,   1.65331162e-03,
+         1.49179777e-03,   1.51539227e-02,   1.49179777e-03,
+         1.49179777e-03,   1.23575655e-02,   1.49179777e-03,
+         1.49179777e-03,   1.49179777e-03,   1.24881209e-02,
+         1.49179777e-03,   1.66707495e-02,   1.49179777e-03,
+         1.49179777e-03,   3.34463071e-03,   1.49179777e-03,
+         1.49179777e-03,   2.10097603e-03,   1.49179777e-03,
+         2.64416865e-03,   1.49179777e-03,   1.25313498e-02,
+         2.35001657e-02,   1.61587926e-02,   1.49179777e-03,
+         3.53201322e-03,   3.39628879e-02,   4.67327846e-03,
+         1.39760226e-03,   1.39760226e-03,   7.68406925e-04,
+         3.16803376e-02,   9.65790565e-03,   2.16598216e-02,
+         1.17592658e-02,   3.52067444e-02,   1.39760226e-03,
+         2.34053853e-02,   2.39555443e-03,   1.30603365e-02,
+         3.94386024e-02,   1.98139212e-02,   4.59256107e-03,
+         3.67897243e-02,   2.55185226e-02,   2.88082115e-02,
+         2.29562640e-02,   2.46343478e-02,   3.12032502e-03,
+         3.20870088e-02,   1.41544875e-02,   2.92676735e-02,
+         3.46220494e-02,   1.63746809e-02,   2.13664654e-02,
+         3.99032237e-03,   3.30616451e-02,   6.92904557e-03,
+         2.53709435e-02,   3.17694249e-02,   9.63822197e-03,
+         2.03019993e-02,   8.26214623e-03,   1.93485506e-02,
+         2.08840049e-02,   2.75738123e-02,   3.91253877e-03,
+         6.65709555e-03,   1.83175875e-02,   2.49207734e-02,
+         9.48461147e-03,   1.47582622e-02,   1.31306352e-02,
+         1.82824306e-03,   1.39760226e-03,   4.47083264e-03,
+         2.37507685e-02,   1.06445369e-02,   1.05265475e-02,
+         1.68928629e-02,   7.49911894e-03,   2.33535250e-02,
+         1.33312550e-02,   2.49611298e-02,   3.07473107e-03,
+         6.96502723e-04,   5.97829276e-04,   1.96123997e-02,
+         5.97829276e-04,   1.25184990e-03,   5.02233959e-03,
+         5.97829276e-04,   7.77366098e-03,   8.14349873e-03,
+         2.27927131e-02,   7.39648385e-04,   7.21855513e-04,
+         3.81474476e-03,   2.09455521e-02,   5.97829276e-04,
+         5.97829276e-04,   1.19989254e-02,   2.16355747e-02,
+         1.31199845e-03,   2.65153557e-02,   4.81970250e-03,
+         7.45981348e-03,   1.00010959e-02,   2.39292906e-02,
+         1.33019143e-03,   2.04161521e-02,   1.47288782e-02,
+         9.85169837e-03,   1.10731390e-03,   5.97829276e-04,
+         8.80670242e-04,   5.97829276e-04,   5.97829276e-04,
+         9.99238713e-04,   1.05373546e-03,   9.25217698e-04,
+         5.97829276e-04,   7.82888121e-04,   1.32894592e-02,
+         1.34992569e-02,   7.87750832e-03,   5.97829276e-04,
+         2.37960074e-02,   1.46196565e-02,   1.74124955e-02,
+         1.51439415e-03,   2.30439152e-02,   2.11501424e-03,
+         5.87648675e-03,   5.97829276e-04,   1.40330560e-02,
+         5.97829276e-04,   3.41857129e-03,   2.19768432e-02,
+         1.71125004e-03,   2.71769069e-02,   5.97829276e-04,
+         5.97829276e-04,   9.50164398e-03,   5.97829276e-04,
+         3.11171820e-04,   1.48822860e-04,   7.24960644e-05,
+         7.24960644e-05,   7.09941438e-04,   1.16668645e-02,
+         7.24960644e-05,   7.24960644e-05,   7.24960644e-05,
+         7.24960644e-05,   7.46698600e-04,   3.24842615e-03,
+         7.24960644e-05,   7.24960644e-05,   7.24960644e-05,
+         7.24960644e-05,   7.24960644e-05,   2.72491084e-03,
+         7.24960644e-05,   7.24960644e-05,   7.24960644e-05,
+         7.24960644e-05,   7.24960644e-05,   7.24960644e-05,
+         1.43809068e-04,   7.24960644e-05,   7.24960644e-05,
+         7.24960644e-05,   7.24960644e-05,   7.24960644e-05,
+         6.61920899e-03,   6.03333674e-03,   2.48124838e-04,
+         7.24960644e-05,   7.24960644e-05,   1.59039248e-04,
+         7.24960644e-05,   7.24960644e-05,   7.64154395e-05,
+         7.24960644e-05,   7.24960644e-05,   7.24960644e-05,
+         7.24960644e-05,   7.24960644e-05,   3.59778114e-03,
+         7.24960644e-05,   7.24960644e-05,   2.31897717e-03,
+         7.24960644e-05,   7.24960644e-05,   7.24960644e-05,
+         7.24960644e-05,   1.59042815e-04,   7.24960644e-05,
+         4.28718489e-03,   7.24960644e-05,   7.24960644e-05,
+         7.24960644e-05,   3.76061292e-03,   7.24960644e-05,
+         9.68767387e-03,   3.79909044e-03,   5.97398218e-03,
+         1.62969905e-02,   3.49437183e-03,   2.05804371e-03,
+         1.98533150e-02,   1.14872252e-02,   1.51080140e-03,
+         1.44206183e-03,   2.76102713e-03,   1.75958757e-02,
+         1.56029211e-03,   5.66611008e-03,   3.80909717e-03,
+         1.69060029e-02,   1.36491070e-02,   2.74959988e-03,
+         1.33974085e-02,   3.30206971e-03,   1.58234727e-03,
+         1.57232676e-03,   1.78854979e-02,   1.50574742e-03,
+         5.36665346e-03,   1.24998938e-02,   1.15707888e-02,
+         1.27552870e-02,   1.86900819e-02,   2.50842466e-03,
+         2.65190329e-03,   3.06299506e-03,   3.04227360e-03,
+         3.62959055e-03,   1.22146031e-02,   2.66403172e-03,
+         3.15881887e-03,   1.12394191e-02,   2.99256956e-03,
+         2.71550078e-03,   5.08643558e-03,   1.67471569e-02,
+         1.87906074e-03,   2.56183605e-03,   2.73944490e-03,
+         3.29309989e-03,   1.51037957e-03,   1.04948833e-02,
+         1.96010325e-03,   1.49694920e-02,   1.00362999e-02,
+         9.21951767e-03,   2.39056030e-03,   3.40885674e-03,
+         1.27929875e-03,   2.63144968e-03,   1.36547214e-02,
+         7.51348728e-03,   5.48015681e-03,   2.74000518e-03,
+         4.58478593e-03,   1.07314340e-02,   4.88304987e-03,
+         5.51633567e-03,   7.66852525e-03,   1.25835388e-02,
+         1.91041776e-02,   2.01946138e-02,   5.12835968e-03,
+         2.20163961e-02,   2.34545617e-02,   2.85443472e-02,
+         1.42399583e-02,   1.27360563e-02,   1.77409484e-02,
+         9.52345221e-03,   1.16050692e-02,   3.71322561e-03,
+         4.54393428e-03,   9.07840210e-03,   4.96280550e-03,
+         1.24997781e-02,   3.24625715e-02,   3.25134362e-02,
+         3.95950276e-03,   3.09696151e-02,   3.75796093e-03,
+         3.50765192e-03,   1.59025299e-02,   4.70626691e-03,
+         2.60084893e-02,   1.11643659e-02,   2.27672052e-02,
+         1.01351136e-02,   2.14511883e-02,   2.74402664e-02,
+         5.02465346e-03,   1.78241767e-02,   4.71019079e-03,
+         5.92682373e-03,   2.51991546e-02,   4.37098458e-03,
+         4.26216091e-03,   2.15742569e-02,   2.58271717e-02,
+         3.86290724e-03,   4.82569891e-03,   4.01064520e-03,
+         3.06663362e-02,   5.21680787e-03,   3.28149970e-02,
+         4.22277139e-03,   1.68297259e-02,   2.64734173e-02,
+         4.83789799e-03,   4.47493831e-03,   5.83121206e-03,
+         8.21869589e-03,   5.11536790e-03,   4.38266219e-03,
+         1.44233725e-03,   3.58193028e-02,   2.75911207e-02,
+         3.16510838e-02,   1.46655527e-02,   1.25636856e-03,
+         1.60868324e-03,   1.60868324e-03,   3.27924813e-02,
+         2.72525357e-03,   3.16585207e-02,   1.60868324e-03,
+         1.55257561e-02,   1.60868324e-03,   1.06433369e-02,
+         1.60868324e-03,   2.84398860e-02,   1.60868324e-03,
+         2.97385951e-02,   2.04479046e-03,   1.60868324e-03,
+         1.60868324e-03,   1.81495440e-02,   4.40569826e-03,
+         1.75904359e-03,   2.07182360e-02,   2.11802233e-03,
+         2.84793090e-02,   9.86273316e-03,   7.74094366e-03,
+         1.43413145e-02,   1.09720318e-02,   9.78989201e-03,
+         9.87237490e-03,   3.90597944e-03,   1.60868324e-03,
+         3.80238677e-03,   1.47714589e-02,   2.52553379e-02,
+         2.15910830e-02,   1.60868324e-03,   2.54033696e-02,
+         1.67421266e-02,   5.55436061e-03,   8.61197131e-03,
+         1.60868324e-03,   1.27937295e-02,   1.60868324e-03,
+         1.50077975e-02,   2.00470969e-02,   1.65885067e-02,
+         2.68740602e-02,   1.60868324e-03,   1.60868324e-03,
+         2.72277555e-02,   1.60868324e-03,   1.60172184e-02,
+         1.60586139e-03,   1.31436585e-03,   2.49814295e-02,
+         9.77819897e-03,   2.78915575e-02,   4.83493114e-03,
+         1.62612821e-02,   3.09910420e-02,   1.11109395e-02,
+         1.83711344e-03,   1.75622333e-02,   9.45340669e-03,
+         1.76866740e-03,   1.01494718e-02,   1.91338532e-03,
+         1.86956710e-02,   1.07089023e-02,   1.76496786e-03,
+         1.77243869e-03,   4.22362327e-03,   4.50183294e-03,
+         5.36303307e-03,   2.27343766e-02,   1.75595209e-03,
+         2.26606343e-03,   1.62120146e-03,   1.62120146e-03,
+         2.18716229e-03,   1.62120146e-03,   1.75635878e-03,
+         1.54913403e-03,   1.61754792e-03,   1.91904037e-03,
+         2.98444796e-02,   2.87979452e-02,   2.66288711e-02,
+         2.72001595e-02,   3.39781068e-02,   1.69272396e-02,
+         6.93407943e-03,   1.04722412e-02,   1.18178154e-02,
+         2.65326411e-02,   2.54656478e-02,   1.21237384e-02,
+         1.78325239e-02,   1.55799309e-03,   1.62120146e-03,
+         2.23601248e-02,   6.20796312e-03,   1.69315041e-03,
+         1.77243869e-03,   1.53264043e-02,   1.64829039e-03,
+         1.71869941e-02,   2.25853852e-03,   1.80019413e-02,
+         3.10231755e-03,   1.23327512e-02,   2.78124279e-02,
+         1.69598116e-03,   2.64968529e-03,   6.73132774e-03,
+         2.69671895e-03,   2.28933477e-03,   1.44074286e-02,
+         1.42643647e-02,   1.07757445e-03,   1.78545818e-03,
+         2.28008571e-03,   9.39331636e-03,   2.80218653e-03,
+         9.77253653e-04,   1.83467789e-03,   2.38878090e-03,
+         2.80501030e-03,   1.66756513e-03,   2.15586262e-03,
+         2.24851107e-03,   1.19194037e-02,   4.48180250e-03,
+         2.27565599e-03,   2.31519147e-03,   3.39791373e-03,
+         4.70450847e-03,   2.36914767e-03,   2.83040111e-03,
+         1.59952179e-03,   1.61053668e-02,   2.32278661e-03,
+         1.78458344e-03,   2.40552093e-03,   2.63610116e-03,
+         4.12544578e-03,   2.64288942e-03,   2.70939876e-03,
+         2.13883493e-03,   4.63425265e-03,   1.48920184e-03,
+         2.18497072e-03,   2.77694929e-03,   1.99189169e-03,
+         2.53746814e-03,   1.05206128e-02,   2.16232767e-03,
+         2.61314599e-03,   2.22426395e-03,   1.52335866e-02,
+         2.31772888e-03,   1.23241744e-02,   1.17550408e-02,
+         7.29114486e-03,   2.47748739e-03,   2.92362375e-03,
+         5.89050471e-03,   2.13298174e-03,   5.52652472e-03,
+         2.31816267e-03,   2.37615387e-03,   6.81136639e-03,
+         2.89905234e-03,   1.00003893e-02,   2.37670541e-03,
+         3.08979481e-02,   2.99717600e-03,   2.01276971e-02,
+         1.65549732e-02,   9.20657684e-03,   8.51574862e-03,
+         1.76834102e-03,   1.02707220e-02,   1.54129122e-02,
+         1.83849459e-02,   1.91101599e-02,   1.92394769e-03,
+         1.89261855e-02,   3.01368938e-02,   6.78863883e-03,
+         2.77218619e-02,   3.28075971e-03,   1.52427778e-02,
+         1.52782422e-03,   9.46346678e-03,   2.07943322e-02,
+         1.94983606e-03,   3.00713535e-03,   2.68193348e-03,
+         1.55215604e-02,   3.00713535e-03,   2.83531352e-03,
+         1.40525493e-02,   3.18592321e-02,   3.84387674e-03,
+         2.54155522e-03,   1.28921816e-02,   3.22436178e-03,
+         3.08639124e-03,   2.82219461e-02,   2.66497422e-02,
+         2.93941326e-03,   1.81535286e-03,   1.11765142e-02,
+         6.99418749e-03,   3.97533524e-03,   3.65502649e-03,
+         2.50410174e-03,   2.23470318e-02,   2.32873485e-02,
+         4.16689630e-03,   1.95734642e-03,   1.15510215e-02,
+         2.00364775e-03,   2.55939768e-03,   2.71503505e-02,
+         3.07463585e-02,   1.77360468e-02,   2.01984789e-02,
+         6.53894854e-03,   2.35717600e-03,   1.52218857e-02,
+         2.42582919e-03,   7.72104408e-03,   2.31968507e-02,
+         5.77418704e-03,   1.30418577e-03,   1.57149039e-03,
+         1.30418577e-03,   1.30418577e-03,   9.92481810e-04,
+         1.71159325e-03,   1.48121877e-02,   1.30418577e-03,
+         1.63137702e-02,   3.79101681e-03,   1.32075685e-03,
+         1.30418577e-03,   1.47996311e-03,   1.47996311e-03,
+         1.31970329e-03,   1.30418577e-03,   1.30418577e-03,
+         7.76604791e-03,   1.28470719e-02,   4.44847539e-03,
+         1.71812509e-03,   2.27701182e-02,   9.52695106e-03,
+         1.52917027e-03,   1.24922359e-02,   1.30418577e-03,
+         1.35970841e-03,   1.30418577e-03,   1.86543379e-02,
+         1.30418577e-03,   1.35770907e-02,   1.59083055e-03,
+         1.47996311e-03,   9.02579352e-03,   1.35229216e-03,
+         1.59009149e-02,   1.50498075e-03,   1.65593494e-03,
+         1.47996311e-03,   1.47996311e-03,   1.77460652e-03,
+         1.74885075e-02,   1.30418577e-03,   4.47290845e-03,
+         1.25696221e-02,   1.72140614e-02,   1.30418577e-03,
+         1.95453257e-02,   1.55959512e-03,   1.57149039e-03,
+         9.79181119e-03,   1.46670579e-03,   2.13824041e-02,
+         2.17477332e-02,   1.75918156e-03,   1.31970329e-03,
+         1.30418577e-03,   1.09038888e-03,   1.30418577e-03,
+         2.62341788e-02,   2.38263993e-02,   5.25405636e-03,
+         1.82210208e-02,   5.34159209e-04,   1.03868465e-03,
+         5.34159209e-04,   5.34159209e-04,   1.35698412e-02,
+         6.10348532e-03,   1.18704551e-02,   2.08435941e-02,
+         5.34159209e-04,   5.34159209e-04,   1.09679059e-02,
+         1.62772570e-02,   5.34159209e-04,   5.34159209e-04,
+         5.38332435e-03,   5.34159209e-04,   2.44445261e-02,
+         5.34159209e-04,   1.81428058e-02,   1.19945083e-02,
+         2.40017400e-02,   2.31735392e-02,   5.34159209e-04,
+         1.03726970e-02,   1.02573154e-02,   5.34159209e-04,
+         5.34159209e-04,   5.34159209e-04,   2.08445663e-02,
+         2.24475589e-02,   1.16241591e-02,   2.92377440e-03,
+         5.34159209e-04,   2.38977269e-02,   5.34159209e-04,
+         5.34159209e-04,   5.34159209e-04,   8.45565096e-03,
+         5.34159209e-04,   7.74421011e-03,   4.74487750e-03,
+         2.33131833e-02,   5.34159209e-04,   1.29891447e-02,
+         1.84493045e-02,   5.34159209e-04,   1.91419517e-02,
+         1.65632721e-02,   5.34159209e-04,   5.34159209e-04,
+         2.28287102e-02,   5.34159209e-04,   7.15044487e-03,
+         5.34159209e-04,   9.89358019e-03,   1.62005108e-02])>
+Hidden to Output Layer        =  <synapses_3.w: array([ 0.04580283,  0.04580283,  0.04580283,  0.04580283,  0.04580283,
+        0.05      ,  0.04580283,  0.04580283,  0.04580283,  0.04580283,
+        0.04580283,  0.04580283,  0.04580283,  0.04580283,  0.04580283,
+        0.04580283,  0.04580283,  0.04580283,  0.04580283,  0.04580283,
+        0.04580283,  0.04580283,  0.04580283,  0.04580283,  0.04580283,
+        0.04580283,  0.04580283,  0.04580283,  0.04580283,  0.04580283,
+        0.04580283,  0.04580283,  0.04580283,  0.04580283,  0.04580283,
+        0.04580283,  0.04580283,  0.04580283,  0.04580283,  0.04580283,
+        0.04580283,  0.04580283,  0.04580283,  0.04580283,  0.04580283,
+        0.04580283,  0.04580283,  0.04580283,  0.04580283,  0.04580283,
+        0.04580283,  0.04580283,  0.04580283,  0.04580283,  0.04580283,
+        0.04580283,  0.04580283,  0.04580283,  0.04531185,  0.04580283])>
+************************** TRAINING DONE, NOW TESTING *******************************************************
+Iteration  0 , Testing 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([2])>
+Iteration  0 , Testing 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.07s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([52])>
+Iteration  0 , Testing 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.07s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.05s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([101])>
+Iteration  0 , Testing 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([151])>
+Iteration  1 , Testing 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.07s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([2])>
+Iteration  1 , Testing 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.05s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([52])>
+Iteration  1 , Testing 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.05s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.29s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([102])>
+Iteration  1 , Testing 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([151])>
+Iteration  2 , Testing 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([2])>
+Iteration  2 , Testing 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([52])>
+Iteration  2 , Testing 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([101])>
+Iteration  2 , Testing 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([151])>
+Iteration  3 , Testing 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([2])>
+Iteration  3 , Testing 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([52])>
+Iteration  3 , Testing 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([102])>
+Iteration  3 , Testing 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([151])>
+Iteration  4 , Testing 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([2])>
+Iteration  4 , Testing 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([52])>
+Iteration  4 , Testing 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([101])>
+Iteration  4 , Testing 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([151])>
+Iteration  5 , Testing 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([2])>
+Iteration  5 , Testing 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([52])>
+Iteration  5 , Testing 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([101])>
+Iteration  5 , Testing 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([151])>
+Iteration  6 , Testing 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([2])>
+Iteration  6 , Testing 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([52])>
+Iteration  6 , Testing 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([101])>
+Iteration  6 , Testing 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([151])>
+Iteration  7 , Testing 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([2])>
+Iteration  7 , Testing 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([52])>
+Iteration  7 , Testing 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([102])>
+Iteration  7 , Testing 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([151])>
+Iteration  8 , Testing 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.05s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([2])>
+Iteration  8 , Testing 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([52])>
+Iteration  8 , Testing 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([102])>
+Iteration  8 , Testing 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor.count: array([151])>
+Iteration  9 , Testing 0,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([2])>
+Iteration  9 , Testing 1,0
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.27s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([52])>
+Iteration  9 , Testing 0,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([101])>
+Iteration  9 , Testing 1,1
+INFO       No numerical integration method specified for group 'neurongroup_1', using method 'linear' (took 0.06s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'neurongroup', using method 'linear' (took 0.04s). [brian2.stateupdaters.base.method_choice]
+INFO       No numerical integration method specified for group 'synapses', using method 'linear' (took 0.28s). [brian2.stateupdaters.base.method_choice]
+Output Spike Count = <spikemonitor_1.count: array([151])>
